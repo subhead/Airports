@@ -48373,7 +48373,7 @@
     },
     "6OK6": {
         "icao": "6OK6",
-        "iata": "BWL",
+        "iata": "",
         "name": "Earl Henry Airport",
         "city": "Blackwell",
         "state": "Oklahoma",
@@ -67729,14 +67729,14 @@
     },
     "AK96": {
         "icao": "AK96",
-        "iata": "BSZ",
-        "name": "Bartletts Airport",
-        "city": "Egegik",
+        "iata": "",
+        "name": "Randy Briggs Memorial Field Airport",
+        "city": "Ugashik",
         "state": "Alaska",
         "country": "US",
-        "elevation": 50,
-        "lat": 58.2162017822,
-        "lon": -157.352005005,
+        "elevation": 25,
+        "lat": 57.5164097,
+        "lon": -157.3859514,
         "tz": "America/Anchorage"
     },
     "AK97": {
@@ -68891,6 +68891,18 @@
         "lon": -91.1890029907,
         "tz": "America/Chicago"
     },
+    "AYAF": {
+        "icao": "AYAF",
+        "iata": "AFR",
+        "name": "Afore Airstrip",
+        "city": "Afore",
+        "state": "Oro Province",
+        "country": "PG",
+        "elevation": 2500,
+        "lat": -9.14222,
+        "lon": 148.39083,
+        "tz": "Pacific/Port_Moresby"
+    },
     "AYAI": {
         "icao": "AYAI",
         "iata": "ATP",
@@ -69023,6 +69035,18 @@
         "lon": 154.6730041504,
         "tz": "Pacific/Bougainville"
     },
+    "AYBL": {
+        "icao": "AYBL",
+        "iata": "BAA",
+        "name": "Bialla Airport",
+        "city": "Bialla",
+        "state": "West New Britain",
+        "country": "PG",
+        "elevation": 51,
+        "lat": -5.329445,
+        "lon": 151.006128,
+        "tz": "Pacific/Port_Moresby"
+    },
     "AYBM": {
         "icao": "AYBM",
         "iata": "OPU",
@@ -69059,6 +69083,18 @@
         "lon": 141.091971,
         "tz": "Pacific/Port_Moresby"
     },
+    "AYCG": {
+        "icao": "AYCG",
+        "iata": "CGC",
+        "name": "Cape Gloucester Airport",
+        "city": "Cape Gloucester",
+        "state": "West New Britain",
+        "country": "PG",
+        "elevation": 78,
+        "lat": -5.455122,
+        "lon": 148.423082,
+        "tz": "Pacific/Port_Moresby"
+    },
     "AYCH": {
         "icao": "AYCH",
         "iata": "CMU",
@@ -69069,6 +69105,30 @@
         "elevation": 4974,
         "lat": -6.0242900848,
         "lon": 144.970993042,
+        "tz": "Pacific/Port_Moresby"
+    },
+    "AYDA": {
+        "icao": "AYDA",
+        "iata": "DAO",
+        "name": "Dahamo Airstrip",
+        "city": "Dabo",
+        "state": "Western",
+        "country": "PG",
+        "elevation": 460,
+        "lat": -5.753194,
+        "lon": 141.993611,
+        "tz": "Pacific/Port_Moresby"
+    },
+    "AYDB": {
+        "icao": "AYDB",
+        "iata": "DBP",
+        "name": "Debepare Airport",
+        "city": "Debepare",
+        "state": "Western",
+        "country": "PG",
+        "elevation": 360,
+        "lat": -6.308611,
+        "lon": 141.905556,
         "tz": "Pacific/Port_Moresby"
     },
     "AYDE": {
@@ -69801,6 +69861,18 @@
         "elevation": 5804,
         "lat": -5.2786111111,
         "lon": 144.544722222,
+        "tz": "Pacific/Port_Moresby"
+    },
+    "AYSS": {
+        "icao": "AYSS",
+        "iata": "TDS",
+        "name": "Sasereme Airport",
+        "city": "Sasereme",
+        "state": "Western Province",
+        "country": "PG",
+        "elevation": 121,
+        "lat": -7.622778,
+        "lon": 142.868889,
         "tz": "Pacific/Port_Moresby"
     },
     "AYST": {
@@ -75052,7 +75124,7 @@
         "iata": "",
         "name": "Del Bonita / Whetstone International Airport",
         "city": "Del Bonita",
-        "state": "Montana",
+        "state": "Alberta",
         "country": "CA",
         "elevation": 4335,
         "lat": 48.9986000061,
@@ -78244,7 +78316,7 @@
         "iata": "",
         "name": "Scobey Border Station Airport",
         "city": "Coronach",
-        "state": "Montana",
+        "state": "Saskatchewan",
         "country": "CA",
         "elevation": 2501,
         "lat": 48.9994659424,
@@ -84491,6 +84563,18 @@
         "lon": -102.3109970093,
         "tz": "America/Regina"
     },
+    "CYHC": {
+        "icao": "CYHC",
+        "iata": "CXH",
+        "name": "Vancouver Harbour Airport",
+        "city": "Vancouver",
+        "state": "British Columbia",
+        "country": "CA",
+        "elevation": 0,
+        "lat": 49.2945,
+        "lon": -123.111333,
+        "tz": "America/Vancouver"
+    },
     "CYHD": {
         "icao": "CYHD",
         "iata": "YHD",
@@ -84805,7 +84889,7 @@
     },
     "CYJQ": {
         "icao": "CYJQ",
-        "iata": "ZEL",
+        "iata": "",
         "name": "Denny Island Airport",
         "city": "Bella Bella",
         "state": "British Columbia",
@@ -85106,7 +85190,7 @@
     "CYLS": {
         "icao": "CYLS",
         "iata": "YLK",
-        "name": "Barrie-Orillia (Lake Simcoe Regional Airport)",
+        "name": "Lake Simcoe Regional Airport",
         "city": "Barrie-Orillia",
         "state": "Ontario",
         "country": "CA",
@@ -86788,7 +86872,7 @@
         "iata": "YFJ",
         "name": "Wekweeti Airport",
         "city": "Wekweeti",
-        "state": "Northwest-Territories",
+        "state": "Northwest Territories",
         "country": "CA",
         "elevation": 1208,
         "lat": 64.1908035278,
@@ -86807,12 +86891,24 @@
         "lon": -97.2398986816,
         "tz": "America/Winnipeg"
     },
+    "CYWH": {
+        "icao": "CYWH",
+        "iata": "YWH",
+        "name": "Victoria Inner Harbour Airport",
+        "city": "Victoria",
+        "state": "British Columbia",
+        "country": "CA",
+        "elevation": 0,
+        "lat": 48.422833,
+        "lon": -123.3875,
+        "tz": "America/Vancouver"
+    },
     "CYWJ": {
         "icao": "CYWJ",
         "iata": "YWJ",
         "name": "Deline Airport",
         "city": "Deline",
-        "state": "Northwest-Territories",
+        "state": "Northwest Territories",
         "country": "CA",
         "elevation": 703,
         "lat": 65.2110977173,
@@ -86836,7 +86932,7 @@
         "iata": "YWL",
         "name": "Williams Lake Airport",
         "city": "Williams Lake",
-        "state": "British-Columbia",
+        "state": "British Columbia",
         "country": "CA",
         "elevation": 3085,
         "lat": 52.1831016541,
@@ -86884,7 +86980,7 @@
         "iata": "YWY",
         "name": "Wrigley Airport",
         "city": "Wrigley",
-        "state": "Northwest-Territories",
+        "state": "Northwest Territories",
         "country": "CA",
         "elevation": 489,
         "lat": 63.209400177,
@@ -86896,7 +86992,7 @@
         "iata": "YXC",
         "name": "Cranbrook Airport",
         "city": "Cranbrook",
-        "state": "British-Columbia",
+        "state": "British Columbia",
         "country": "CA",
         "elevation": 3082,
         "lat": 49.6108016968,
@@ -86944,7 +87040,7 @@
         "iata": "YXJ",
         "name": "Fort St John Airport",
         "city": "Fort St.John",
-        "state": "British-Columbia",
+        "state": "British Columbia",
         "country": "CA",
         "elevation": 2280,
         "lat": 56.2380981445,
@@ -87028,7 +87124,7 @@
         "iata": "YXS",
         "name": "Prince George Airport",
         "city": "Prince George",
-        "state": "British-Columbia",
+        "state": "British Columbia",
         "country": "CA",
         "elevation": 2267,
         "lat": 53.8894004822,
@@ -87040,7 +87136,7 @@
         "iata": "YXT",
         "name": "Terrace Airport",
         "city": "Terrace",
-        "state": "British-Columbia",
+        "state": "British Columbia",
         "country": "CA",
         "elevation": 713,
         "lat": 54.46849823,
@@ -87064,7 +87160,7 @@
         "iata": "YXX",
         "name": "Abbotsford Airport",
         "city": "Abbotsford",
-        "state": "British-Columbia",
+        "state": "British Columbia",
         "country": "CA",
         "elevation": 195,
         "lat": 49.0252990723,
@@ -87124,7 +87220,7 @@
         "iata": "YYD",
         "name": "Smithers Airport",
         "city": "Smithers",
-        "state": "British-Columbia",
+        "state": "British Columbia",
         "country": "CA",
         "elevation": 1712,
         "lat": 54.8246994019,
@@ -87136,7 +87232,7 @@
         "iata": "YYE",
         "name": "Fort Nelson Airport",
         "city": "Fort Nelson",
-        "state": "British-Columbia",
+        "state": "British Columbia",
         "country": "CA",
         "elevation": 1253,
         "lat": 58.8363990784,
@@ -87148,7 +87244,7 @@
         "iata": "YYF",
         "name": "Penticton Airport",
         "city": "Penticton",
-        "state": "British-Columbia",
+        "state": "British Columbia",
         "country": "CA",
         "elevation": 1129,
         "lat": 49.4631004333,
@@ -87184,7 +87280,7 @@
         "iata": "YYJ",
         "name": "Victoria International Airport",
         "city": "Victoria",
-        "state": "British-Columbia",
+        "state": "British Columbia",
         "country": "CA",
         "elevation": 63,
         "lat": 48.646900177,
@@ -87352,7 +87448,7 @@
         "iata": "YZF",
         "name": "Yellowknife Airport",
         "city": "Yellowknife",
-        "state": "Northwest-Territories",
+        "state": "Northwest Territories",
         "country": "CA",
         "elevation": 675,
         "lat": 62.4627990723,
@@ -87388,7 +87484,7 @@
         "iata": "YZP",
         "name": "Sandspit Airport",
         "city": "Sandspit",
-        "state": "British-Columbia",
+        "state": "British Columbia",
         "country": "CA",
         "elevation": 21,
         "lat": 53.2542991638,
@@ -87424,7 +87520,7 @@
         "iata": "YZT",
         "name": "Port Hardy Airport",
         "city": "Port Hardy",
-        "state": "British-Columbia",
+        "state": "British Columbia",
         "country": "CA",
         "elevation": 71,
         "lat": 50.6805992126,
@@ -87472,7 +87568,7 @@
         "iata": "YZX",
         "name": "CFB Greenwood",
         "city": "Greenwood",
-        "state": "Nova-Scotia",
+        "state": "Nova Scotia",
         "country": "CA",
         "elevation": 92,
         "lat": 44.9844017029,
@@ -87484,7 +87580,7 @@
         "iata": "YZY",
         "name": "Mackenzie Airport",
         "city": "Mackenzie",
-        "state": "British-Columbia",
+        "state": "British Columbia",
         "country": "CA",
         "elevation": 2264,
         "lat": 55.3044013977,
@@ -87508,7 +87604,7 @@
         "iata": "YSN",
         "name": "Salmon Arm Airport",
         "city": "Salmon Arm",
-        "state": "British-Columbia",
+        "state": "British Columbia",
         "country": "CA",
         "elevation": 1751,
         "lat": 50.682800293,
@@ -87532,7 +87628,7 @@
         "iata": "ZBD",
         "name": "Vancouver / Boundary Bay Airport",
         "city": "Boundary Bay",
-        "state": "British-Columbia",
+        "state": "British Columbia",
         "country": "CA",
         "elevation": 6,
         "lat": 49.0741996765,
@@ -87556,7 +87652,7 @@
         "iata": "ZBF",
         "name": "Bathurst Airport",
         "city": "Bathurst",
-        "state": "New-Brunswick",
+        "state": "New Brunswick",
         "country": "CA",
         "elevation": 193,
         "lat": 47.629699707,
@@ -87640,7 +87736,7 @@
         "iata": "ZFM",
         "name": "Fort Mcpherson Airport",
         "city": "Fort Mcpherson",
-        "state": "Northwest-Territories",
+        "state": "Northwest Territories",
         "country": "CA",
         "elevation": 116,
         "lat": 67.4075012207,
@@ -87652,7 +87748,7 @@
         "iata": "ZFN",
         "name": "Tulita Airport",
         "city": "Tulita",
-        "state": "Northwest-Territories",
+        "state": "Northwest Territories",
         "country": "CA",
         "elevation": 332,
         "lat": 64.9096984863,
@@ -87664,7 +87760,7 @@
         "iata": "ZGF",
         "name": "Grand Forks Airport",
         "city": "Grand Forks",
-        "state": "British-Columbia",
+        "state": "British Columbia",
         "country": "CA",
         "elevation": 1720,
         "lat": 49.0155982971,
@@ -87772,7 +87868,7 @@
         "iata": "ZMH",
         "name": "South Cariboo Region / 108 Mile Airport",
         "city": "108 Mile",
-        "state": "British-Columbia",
+        "state": "British Columbia",
         "country": "CA",
         "elevation": 3126,
         "lat": 51.7360992432,
@@ -87796,7 +87892,7 @@
         "iata": "ZMT",
         "name": "Masset Airport",
         "city": "Masset",
-        "state": "British-Columbia",
+        "state": "British Columbia",
         "country": "CA",
         "elevation": 25,
         "lat": 54.0275001526,
@@ -87820,7 +87916,7 @@
         "iata": "",
         "name": "Nelson Airport",
         "city": "Nelson",
-        "state": "British-Columbia",
+        "state": "British Columbia",
         "country": "CA",
         "elevation": 1755,
         "lat": 49.4942016602,
@@ -87889,7 +87985,7 @@
     },
     "CZSN": {
         "icao": "CZSN",
-        "iata": "ZSN",
+        "iata": "XSI",
         "name": "South Indian Lake Airport",
         "city": "South Indian Lake",
         "state": "Manitoba",
@@ -87904,7 +88000,7 @@
         "iata": "ZST",
         "name": "Stewart Airport",
         "city": "Stewart",
-        "state": "British-Columbia",
+        "state": "British Columbia",
         "country": "CA",
         "elevation": 24,
         "lat": 55.935410448,
@@ -88417,14 +88513,14 @@
     },
     "DAOI": {
         "icao": "DAOI",
-        "iata": "QAS",
-        "name": "Ech Cheliff Airport",
-        "city": "",
+        "iata": "CFK",
+        "name": "Chlef Aboubakr Belkaid Airport",
+        "city": "Chlef",
         "state": "Chlef",
         "country": "DZ",
-        "elevation": 463,
-        "lat": 36.2126998901,
-        "lon": 1.3317699432,
+        "elevation": 502,
+        "lat": 36.216828,
+        "lon": 1.340739,
         "tz": "Africa/Algiers"
     },
     "DAOL": {
@@ -89723,6 +89819,18 @@
         "lon": -1.7747600079,
         "tz": "Africa/Accra"
     },
+    "DIAO": {
+        "icao": "DIAO",
+        "iata": "ABO",
+        "name": "Aboisso Airport",
+        "city": "Aboisso",
+        "state": "Sud-Como\u00e9",
+        "country": "CI",
+        "elevation": 95,
+        "lat": 5.461944,
+        "lon": -3.234722,
+        "tz": "Africa/Abidjan"
+    },
     "DIAP": {
         "icao": "DIAP",
         "iata": "ABJ",
@@ -90335,18 +90443,6 @@
         "lon": 5.2071900368,
         "tz": "Africa/Lagos"
     },
-    "DNTZ": {
-        "icao": "DNTZ",
-        "iata": "NBE",
-        "name": "Enfidha Zine El Abidine Ben Ali International Airport",
-        "city": "Enfidha",
-        "state": "Susah",
-        "country": "TN",
-        "elevation": 21,
-        "lat": 36.075833,
-        "lon": 10.438611,
-        "tz": "Africa/Tunis"
-    },
     "DNYO": {
         "icao": "DNYO",
         "iata": "YOL",
@@ -90683,6 +90779,18 @@
         "lon": 10.754699707,
         "tz": "Africa/Tunis"
     },
+    "DTNH": {
+        "icao": "DTNH",
+        "iata": "NBE",
+        "name": "Enfidha - Hammamet International Airport",
+        "city": "Enfidha",
+        "state": "Susah",
+        "country": "TN",
+        "elevation": 21,
+        "lat": 36.075833,
+        "lon": 10.438611,
+        "tz": "Africa/Tunis"
+    },
     "DTTA": {
         "icao": "DTTA",
         "iata": "TUN",
@@ -90894,7 +91002,7 @@
         "city": "Mont-de-l'Enclus",
         "state": "Wallonia",
         "country": "BE",
-        "elevation": 49,
+        "elevation": 41,
         "lat": 50.7401008606,
         "lon": 3.4848999977,
         "tz": "Europe/Brussels"
@@ -90930,7 +91038,7 @@
         "city": "Antwerp",
         "state": "Flanders",
         "country": "BE",
-        "elevation": 39,
+        "elevation": 32,
         "lat": 51.1893997192,
         "lon": 4.4602799416,
         "tz": "Europe/Brussels"
@@ -90942,7 +91050,7 @@
         "city": "Beauvechain",
         "state": "Wallonia",
         "country": "BE",
-        "elevation": 370,
+        "elevation": 362,
         "lat": 50.7585983276,
         "lon": 4.7683300972,
         "tz": "Europe/Brussels"
@@ -90966,7 +91074,7 @@
         "city": "Kleine Brogel",
         "state": "Flanders",
         "country": "BE",
-        "elevation": 200,
+        "elevation": 192,
         "lat": 51.1683006287,
         "lon": 5.4699997902,
         "tz": "Europe/Brussels"
@@ -91002,7 +91110,7 @@
         "city": "Brussels",
         "state": "Flanders",
         "country": "BE",
-        "elevation": 184,
+        "elevation": 175,
         "lat": 50.9014015198,
         "lon": 4.4844398499,
         "tz": "Europe/Brussels"
@@ -91014,7 +91122,7 @@
         "city": "Brasschaat",
         "state": "Flanders",
         "country": "BE",
-        "elevation": 76,
+        "elevation": 68,
         "lat": 51.340801239,
         "lon": 4.5043997765,
         "tz": "Europe/Brussels"
@@ -91038,7 +91146,7 @@
         "city": "Bertrix",
         "state": "Wallonia",
         "country": "BE",
-        "elevation": 1514,
+        "elevation": 1503,
         "lat": 49.8917007446,
         "lon": 5.2238898277,
         "tz": "Europe/Brussels"
@@ -91074,7 +91182,7 @@
         "city": "Cerfontaine",
         "state": "Wallonia",
         "country": "BE",
-        "elevation": 961,
+        "elevation": 943,
         "lat": 50.1528015137,
         "lon": 4.3872199059,
         "tz": "Europe/Brussels"
@@ -91086,7 +91194,7 @@
         "city": "Brussels",
         "state": "Wallonia",
         "country": "BE",
-        "elevation": 614,
+        "elevation": 606,
         "lat": 50.4592018127,
         "lon": 4.4538202286,
         "tz": "Europe/Brussels"
@@ -91134,7 +91242,7 @@
         "city": "Diest",
         "state": "Flanders",
         "country": "BE",
-        "elevation": 100,
+        "elevation": 92,
         "lat": 50.9991989136,
         "lon": 5.065559864,
         "tz": "Europe/Brussels"
@@ -91146,7 +91254,7 @@
         "city": "Koksijde",
         "state": "Flanders",
         "country": "BE",
-        "elevation": 20,
+        "elevation": 11,
         "lat": 51.0903015137,
         "lon": 2.652780056,
         "tz": "Europe/Brussels"
@@ -91158,7 +91266,7 @@
         "city": "Florennes",
         "state": "Wallonia",
         "country": "BE",
-        "elevation": 935,
+        "elevation": 927,
         "lat": 50.2433013916,
         "lon": 4.6458301544,
         "tz": "Europe/Brussels"
@@ -91170,7 +91278,7 @@
         "city": "Grimbergen",
         "state": "Flanders",
         "country": "BE",
-        "elevation": 70,
+        "elevation": 62,
         "lat": 50.9494018555,
         "lon": 4.3933300972,
         "tz": "Europe/Brussels"
@@ -91182,7 +91290,7 @@
         "city": "Geraardsbergen",
         "state": "Flanders",
         "country": "BE",
-        "elevation": 56,
+        "elevation": 45,
         "lat": 50.7555999756,
         "lon": 3.8638899326,
         "tz": "Europe/Brussels"
@@ -91206,7 +91314,7 @@
         "city": "Hoevenen",
         "state": "Flanders",
         "country": "BE",
-        "elevation": 10,
+        "elevation": 2,
         "lat": 51.306098938,
         "lon": 4.3872199059,
         "tz": "Europe/Brussels"
@@ -91230,7 +91338,7 @@
         "city": "Balen",
         "state": "Flanders",
         "country": "BE",
-        "elevation": 131,
+        "elevation": 123,
         "lat": 51.1782989502,
         "lon": 5.2209200859,
         "tz": "Europe/Brussels"
@@ -91242,7 +91350,7 @@
         "city": "Wevelgem",
         "state": "Flanders",
         "country": "BE",
-        "elevation": 64,
+        "elevation": 55,
         "lat": 50.817199707,
         "lon": 3.2047200203,
         "tz": "Europe/Brussels"
@@ -91266,7 +91374,7 @@
         "city": "Leopoldsburg",
         "state": "Flanders",
         "country": "BE",
-        "elevation": 207,
+        "elevation": 199,
         "lat": 51.1194000244,
         "lon": 5.3008298874,
         "tz": "Europe/Brussels"
@@ -91278,7 +91386,7 @@
         "city": "Liege",
         "state": "Wallonia",
         "country": "BE",
-        "elevation": 659,
+        "elevation": 651,
         "lat": 50.6374015808,
         "lon": 5.4432201385,
         "tz": "Europe/Brussels"
@@ -91314,7 +91422,7 @@
         "city": "Brussels",
         "state": "Flanders",
         "country": "BE",
-        "elevation": 184,
+        "elevation": 175,
         "lat": 50.901389,
         "lon": 4.484444,
         "tz": "Europe/Brussels"
@@ -91350,7 +91458,7 @@
         "city": "Moorsele",
         "state": "Flanders",
         "country": "BE",
-        "elevation": 66,
+        "elevation": 57,
         "lat": 50.8527984619,
         "lon": 3.1473100185,
         "tz": "Europe/Brussels"
@@ -91374,7 +91482,7 @@
         "city": "Namur",
         "state": "Wallonia",
         "country": "BE",
-        "elevation": 594,
+        "elevation": 586,
         "lat": 50.4879989624,
         "lon": 4.7689199448,
         "tz": "Europe/Brussels"
@@ -91410,7 +91518,7 @@
         "city": "Ostend",
         "state": "Flanders",
         "country": "BE",
-        "elevation": 13,
+        "elevation": 7,
         "lat": 51.1988983154,
         "lon": 2.8622200489,
         "tz": "Europe/Brussels"
@@ -91422,7 +91530,7 @@
         "city": "Saint Ghislain",
         "state": "Wallonia",
         "country": "BE",
-        "elevation": 75,
+        "elevation": 67,
         "lat": 50.4575004578,
         "lon": 3.8202800751,
         "tz": "Europe/Brussels"
@@ -91434,7 +91542,7 @@
         "city": "Saint Hubert",
         "state": "Wallonia",
         "country": "BE",
-        "elevation": 1930,
+        "elevation": 1839,
         "lat": 50.035900116,
         "lon": 5.404250145,
         "tz": "Europe/Brussels"
@@ -91458,7 +91566,7 @@
         "city": "Spa",
         "state": "Wallonia",
         "country": "BE",
-        "elevation": 1581,
+        "elevation": 1534,
         "lat": 50.4824981689,
         "lon": 5.910299778,
         "tz": "Europe/Brussels"
@@ -91470,7 +91578,7 @@
         "city": "Sint Truiden",
         "state": "Flanders",
         "country": "BE",
-        "elevation": 246,
+        "elevation": 238,
         "lat": 50.7919006348,
         "lon": 5.2016701698,
         "tz": "Europe/Brussels"
@@ -91482,7 +91590,7 @@
         "city": "Saint Hubert",
         "state": "Wallonia",
         "country": "BE",
-        "elevation": 1930,
+        "elevation": 1922,
         "lat": 50.0344009399,
         "lon": 5.4408102036,
         "tz": "Europe/Brussels"
@@ -91494,7 +91602,7 @@
         "city": "Tienen",
         "state": "Flanders",
         "country": "BE",
-        "elevation": 246,
+        "elevation": 238,
         "lat": 50.7817001343,
         "lon": 4.9577798843,
         "tz": "Europe/Brussels"
@@ -91506,7 +91614,7 @@
         "city": "Verviers",
         "state": "Wallonia",
         "country": "BE",
-        "elevation": 1099,
+        "elevation": 1091,
         "lat": 50.5526008606,
         "lon": 5.8550300598,
         "tz": "Europe/Brussels"
@@ -91518,7 +91626,7 @@
         "city": "Tournai",
         "state": "Wallonia",
         "country": "BE",
-        "elevation": 161,
+        "elevation": 153,
         "lat": 50.5297012329,
         "lon": 3.4945499897,
         "tz": "Europe/Brussels"
@@ -91530,7 +91638,7 @@
         "city": "Ursel",
         "state": "Flanders",
         "country": "BE",
-        "elevation": 95,
+        "elevation": 87,
         "lat": 51.1441993713,
         "lon": 3.4755599499,
         "tz": "Europe/Brussels"
@@ -91542,7 +91650,7 @@
         "city": "Weelde",
         "state": "Flanders",
         "country": "BE",
-        "elevation": 105,
+        "elevation": 97,
         "lat": 51.3947982788,
         "lon": 4.9601898193,
         "tz": "Europe/Amsterdam"
@@ -91554,7 +91662,7 @@
         "city": "Hasselt",
         "state": "Flanders",
         "country": "BE",
-        "elevation": 141,
+        "elevation": 133,
         "lat": 50.9700012207,
         "lon": 5.3750700951,
         "tz": "Europe/Brussels"
@@ -91566,7 +91674,7 @@
         "city": "Zoersel",
         "state": "Flanders",
         "country": "BE",
-        "elevation": 53,
+        "elevation": 45,
         "lat": 51.2647018433,
         "lon": 4.7533302307,
         "tz": "Europe/Brussels"
@@ -91590,7 +91698,7 @@
         "city": "Genk",
         "state": "Flanders",
         "country": "BE",
-        "elevation": 278,
+        "elevation": 270,
         "lat": 51.0153999329,
         "lon": 5.5264701843,
         "tz": "Europe/Brussels"
@@ -93287,6 +93395,18 @@
         "lon": 8.6588888168,
         "tz": "Europe/Berlin"
     },
+    "EDGY": {
+        "icao": "EDGY",
+        "iata": "KZG",
+        "name": "Kitzingen Airport",
+        "city": "Kitzingen",
+        "state": "Bavaria",
+        "country": "DE",
+        "elevation": 666,
+        "lat": 49.7416313,
+        "lon": 10.1988562,
+        "tz": "Europe/Berlin"
+    },
     "EDGZ": {
         "icao": "EDGZ",
         "iata": "",
@@ -94777,7 +94897,7 @@
     },
     "EDOV": {
         "icao": "EDOV",
-        "iata": "ZSN",
+        "iata": "",
         "name": "Stendal-Borstel Airport",
         "city": "Stendal",
         "state": "Saxony-Anhalt",
@@ -95037,6 +95157,18 @@
         "elevation": 1650,
         "lat": 48.9611091614,
         "lon": 10.2363891602,
+        "tz": "Europe/Berlin"
+    },
+    "EDQA": {
+        "icao": "EDQA",
+        "iata": "QCB",
+        "name": "Bamberg-Breitenau Airfield",
+        "city": "Bamberg",
+        "state": "Bavaria",
+        "country": "DE",
+        "elevation": 827,
+        "lat": 49.92055,
+        "lon": 10.9144888889,
         "tz": "Europe/Berlin"
     },
     "EDQB": {
@@ -101101,7 +101233,7 @@
     },
     "EGYM": {
         "icao": "EGYM",
-        "iata": "MRH",
+        "iata": "KNF",
         "name": "RAF Marham",
         "city": "Marham",
         "state": "England",
@@ -101329,7 +101461,7 @@
     },
     "EHOW": {
         "icao": "EHOW",
-        "iata": "---",
+        "iata": "",
         "name": "Oostwold Airport",
         "city": "",
         "state": "Groningen",
@@ -102582,7 +102714,7 @@
         "city": "Winseler",
         "state": "Wiltz",
         "country": "LU",
-        "elevation": 1522,
+        "elevation": 1502,
         "lat": 49.981098175,
         "lon": 5.9177799225,
         "tz": "Europe/Luxembourg"
@@ -102594,7 +102726,7 @@
         "city": "Useldange",
         "state": "Redange",
         "country": "LU",
-        "elevation": 928,
+        "elevation": 925,
         "lat": 49.7686004639,
         "lon": 5.9655599594,
         "tz": "Europe/Luxembourg"
@@ -103355,18 +103487,6 @@
         "lon": 10.7855997086,
         "tz": "Europe/Oslo"
     },
-    "ENSA": {
-        "icao": "ENSA",
-        "iata": "SRP",
-        "name": "Svea Airport",
-        "city": "Svea",
-        "state": "Svalbard",
-        "country": "NO",
-        "elevation": 29,
-        "lat": 77.9000015259,
-        "lon": 16.6833000183,
-        "tz": "Arctic/Longyearbyen"
-    },
     "ENSB": {
         "icao": "ENSB",
         "iata": "LYR",
@@ -103729,7 +103849,7 @@
     },
     "EPCH": {
         "icao": "EPCH",
-        "iata": "CZW",
+        "iata": "",
         "name": "Czestochowa-Rudniki",
         "city": "Czestochowa",
         "state": "Silesia",
@@ -106655,18 +106775,6 @@
         "lon": 7.600279808,
         "tz": "Europe/Berlin"
     },
-    "ETEJ": {
-        "icao": "ETEJ",
-        "iata": "ZCD",
-        "name": "Bamberg-Breitenau Airport",
-        "city": "Bamberg",
-        "state": "Bavaria",
-        "country": "DE",
-        "elevation": 837,
-        "lat": 49.9205551147,
-        "lon": 10.9141674042,
-        "tz": "Europe/Berlin"
-    },
     "ETEK": {
         "icao": "ETEK",
         "iata": "",
@@ -106871,18 +106979,6 @@
         "lon": 10.3880996704,
         "tz": "Europe/Berlin"
     },
-    "ETIN": {
-        "icao": "ETIN",
-        "iata": "KZG",
-        "name": "Kitzingen Army Air Field",
-        "city": "",
-        "state": "Bavaria",
-        "country": "DE",
-        "elevation": 689,
-        "lat": 49.7430992126,
-        "lon": 10.2005996704,
-        "tz": "Europe/Berlin"
-    },
     "ETME": {
         "icao": "ETME",
         "iata": "",
@@ -106945,9 +107041,9 @@
     },
     "ETNH": {
         "icao": "ETNH",
-        "iata": "",
+        "iata": "QCN",
         "name": "Hohn Airport",
-        "city": "",
+        "city": "Hohn",
         "state": "Schleswig-Holstein",
         "country": "DE",
         "elevation": 39,
@@ -110509,7 +110605,7 @@
     },
     "FAMS": {
         "icao": "FAMS",
-        "iata": "MEZ",
+        "iata": "",
         "name": "Morningside Farm Airport",
         "city": "Silveroaks",
         "state": "North-West",
@@ -113903,6 +113999,18 @@
         "lon": 31.9333324432,
         "tz": "Africa/Mbabane"
     },
+    "FDSK": {
+        "icao": "FDSK",
+        "iata": "SHO",
+        "name": "King Mswati III International Airport",
+        "city": "Manzini",
+        "state": "Lubombo",
+        "country": "SZ",
+        "elevation": 1092,
+        "lat": -26.358611,
+        "lon": 31.716944,
+        "tz": "Africa/Mbabane"
+    },
     "FDSM": {
         "icao": "FDSM",
         "iata": "",
@@ -114069,18 +114177,6 @@
         "elevation": 1913,
         "lat": 4.5999999046,
         "lon": 21.8670005798,
-        "tz": "Africa/Bangui"
-    },
-    "FEFL": {
-        "icao": "FEFL",
-        "iata": "BEM",
-        "name": "Bossembele Airport",
-        "city": "Bossembele",
-        "state": "Ombella-M'Poko",
-        "country": "CF",
-        "elevation": 2231,
-        "lat": 5.2670001984,
-        "lon": 17.6329994202,
         "tz": "Africa/Bangui"
     },
     "FEFM": {
@@ -114417,6 +114513,18 @@
         "elevation": 278,
         "lat": -7.9696002007,
         "lon": -14.393699646,
+        "tz": "Atlantic/St_Helena"
+    },
+    "FHSH": {
+        "icao": "FHSH",
+        "iata": "HLE",
+        "name": "Saint Helena Airport",
+        "city": "Saint Helena",
+        "state": "Saint Helena",
+        "country": "SH",
+        "elevation": 1050,
+        "lat": -15.962108,
+        "lon": -5.645901,
         "tz": "Atlantic/St_Helena"
     },
     "FIMA": {
@@ -115801,7 +115909,7 @@
     },
     "FLKE": {
         "icao": "FLKE",
-        "iata": "ZKP",
+        "iata": "CGJ",
         "name": "Kasompe Airport",
         "city": "Kasompe",
         "state": "Copperbelt",
@@ -116015,18 +116123,6 @@
         "lon": 26.4829998016,
         "tz": "Africa/Lusaka"
     },
-    "FLLS": {
-        "icao": "FLLS",
-        "iata": "LUN",
-        "name": "Lusaka International Airport",
-        "city": "Lusaka",
-        "state": "Lusaka",
-        "country": "ZM",
-        "elevation": 3779,
-        "lat": -15.3308000565,
-        "lon": 28.4526004791,
-        "tz": "Africa/Lusaka"
-    },
     "FLMA": {
         "icao": "FLMA",
         "iata": "MNS",
@@ -116173,8 +116269,8 @@
     },
     "FLND": {
         "icao": "FLND",
-        "iata": "NLA",
-        "name": "Ndola Airport",
+        "iata": "",
+        "name": "Peter Zuze Air Force Base",
         "city": "Ndola",
         "state": "Copperbelt",
         "country": "ZM",
@@ -117886,6 +117982,18 @@
         "lat": -7.7169399262,
         "lon": 21.3582000732,
         "tz": "Africa/Luanda"
+    },
+    "FOGA": {
+        "icao": "FOGA",
+        "iata": "AKE",
+        "name": "Aki\u00e9ni Airport",
+        "city": "Aki\u00e9ni",
+        "state": "Haut-Ogoou\u00e9",
+        "country": "GA",
+        "elevation": 1660,
+        "lat": -1.133333,
+        "lon": 13.9,
+        "tz": "Africa/Libreville"
     },
     "FOGB": {
         "icao": "FOGB",
@@ -122703,13 +122811,13 @@
         "icao": "FZGA",
         "iata": "LIQ",
         "name": "Lisala Airport",
-        "city": "",
-        "state": "Equateur",
+        "city": "Lisala",
+        "state": "Mongola",
         "country": "CD",
         "elevation": 1509,
-        "lat": 2.1706600189,
-        "lon": 21.4969005585,
-        "tz": "Africa/Kinshasa"
+        "lat": 2.170984,
+        "lon": 21.497129,
+        "tz": "Africa/Lubumbashi"
     },
     "FZGB": {
         "icao": "FZGB",
@@ -123865,7 +123973,7 @@
     },
     "FZSA": {
         "icao": "FZSA",
-        "iata": "KMN",
+        "iata": "",
         "name": "Kamina Base Airport",
         "city": "",
         "state": "",
@@ -128062,6 +128170,18 @@
         "lat": -2.544772,
         "lon": 30.094575,
         "tz": "Africa/Bujumbura"
+    },
+    "HCAD": {
+        "icao": "HCAD",
+        "iata": "AAD",
+        "name": "Adado Airport",
+        "city": "Adado",
+        "state": "Galguduud",
+        "country": "SO",
+        "elevation": 1001,
+        "lat": 6.095833,
+        "lon": 46.6375,
+        "tz": "Africa/Mogadishu"
     },
     "HCMA": {
         "icao": "HCMA",
@@ -155689,7 +155809,7 @@
     },
     "KE41": {
         "icao": "KE41",
-        "iata": "BGQ",
+        "iata": "",
         "name": "Reagan County Airport",
         "city": "Big Lake",
         "state": "Texas",
@@ -156061,7 +156181,7 @@
     },
     "KEDC": {
         "icao": "KEDC",
-        "iata": null,
+        "iata": "",
         "name": "Austin Executive Airport",
         "city": "Austin",
         "state": "Texas",
@@ -159443,6 +159563,18 @@
         "lon": -85.80480194,
         "tz": "America/Indiana/Indianapolis"
     },
+    "KGFD": {
+        "icao": "KGFD",
+        "iata": "GFD",
+        "name": "Pope Field",
+        "city": "Greenfield",
+        "state": "Indiana",
+        "country": "US",
+        "elevation": 895,
+        "lat": 39.790278,
+        "lon": -85.736111,
+        "tz": "America/Indiana/Indianapolis"
+    },
     "KGFK": {
         "icao": "KGFK",
         "iata": "GFK",
@@ -160246,6 +160378,18 @@
         "lat": 36.6851005554,
         "lon": -101.5080032349,
         "tz": "America/Chicago"
+    },
+    "KGVE": {
+        "icao": "KGVE",
+        "iata": "GVE",
+        "name": "Gordonsville Municipal Airport",
+        "city": "Gordonsville",
+        "state": "Virginia",
+        "country": "US",
+        "elevation": 452,
+        "lat": 38.156358,
+        "lon": -78.165413,
+        "tz": "America/New_York"
     },
     "KGVL": {
         "icao": "KGVL",
@@ -167399,6 +167543,18 @@
         "lon": -74.3289031982,
         "tz": "America/New_York"
     },
+    "KMAN": {
+        "icao": "KMAN",
+        "iata": "",
+        "name": "Nampa Municipal Airport",
+        "city": "Nampa",
+        "state": "Idaho",
+        "country": "US",
+        "elevation": 2537,
+        "lat": 43.5813,
+        "lon": -116.5231,
+        "tz": "America/Boise"
+    },
     "KMAO": {
         "icao": "KMAO",
         "iata": "",
@@ -174313,7 +174469,7 @@
     },
     "KPWK": {
         "icao": "KPWK",
-        "iata": "",
+        "iata": "PWK",
         "name": "Chicago Executive Airport",
         "city": "Chicago/Prospect Heights/Wheeling",
         "state": "Illinois",
@@ -184790,13 +184946,13 @@
     "LECH": {
         "icao": "LECH",
         "iata": "CDT",
-        "name": "Calamocha Airport",
-        "city": "Calamocha",
-        "state": "Aragon",
+        "name": "Castell\u00f3n\u2013Costa Azahar Airport",
+        "city": "Castell\u00f3n",
+        "state": "Valencia",
         "country": "ES",
-        "elevation": 2936,
-        "lat": 40.9000015259,
-        "lon": -1.3041199446,
+        "elevation": 1181,
+        "lat": 40.209722,
+        "lon": 0.069722,
         "tz": "Europe/Madrid"
     },
     "LECI": {
@@ -184825,7 +184981,7 @@
     },
     "LECN": {
         "icao": "LECN",
-        "iata": "CDT",
+        "iata": "",
         "name": "Castellon De La Plana Airport",
         "city": "Castellon de La Plana",
         "state": "Valencia",
@@ -186453,18 +186609,6 @@
         "elevation": 436,
         "lat": 45.7291984558,
         "lon": 0.2214560062,
-        "tz": "Europe/Paris"
-    },
-    "LFBV": {
-        "icao": "LFBV",
-        "iata": "BVE",
-        "name": "Brive-La Roche Airport",
-        "city": "Brive-la-Gaillarde",
-        "state": "Nouvelle-Aquitaine",
-        "country": "FR",
-        "elevation": 379,
-        "lat": 45.1507987976,
-        "lon": 1.4691699743,
         "tz": "Europe/Paris"
     },
     "LFBX": {
@@ -189049,7 +189193,7 @@
     },
     "LFLT": {
         "icao": "LFLT",
-        "iata": "MCU",
+        "iata": "",
         "name": "Montlucon-Domerat Airport",
         "city": "Montlucon/Domerat",
         "state": "Auvergne-Rhone-Alpes",
@@ -189781,7 +189925,7 @@
     },
     "LFOJ": {
         "icao": "LFOJ",
-        "iata": "ORE",
+        "iata": "",
         "name": "Orleans-Bricy (BA 123) Air Base",
         "city": "Orleans/Bricy",
         "state": "Centre",
@@ -190958,13 +191102,13 @@
     "LFSL": {
         "icao": "LFSL",
         "iata": "BVE",
-        "name": "Toul Rosieres Air Base",
-        "city": "St Dizier",
-        "state": "Grand-Est",
+        "name": "Brive\u2013Souillac Airport",
+        "city": "Nespouls",
+        "state": "Nouvelle-Aquitaine",
         "country": "FR",
-        "elevation": 936,
-        "lat": 48.7799987793,
-        "lon": 5.9800000191,
+        "elevation": 1016,
+        "lat": 45.0396599,
+        "lon": 1.4857120842,
         "tz": "Europe/Paris"
     },
     "LFSM": {
@@ -193189,7 +193333,7 @@
     },
     "LIDT": {
         "icao": "LIDT",
-        "iata": "ZIA",
+        "iata": "",
         "name": "Trento / Mattarello Airport",
         "city": "Trento",
         "state": "Trentino-Alto-Adige",
@@ -196393,7 +196537,7 @@
     },
     "LLRM": {
         "icao": "LLRM",
-        "iata": "MIP",
+        "iata": "",
         "name": "Ramon Air Base",
         "city": "Beersheba",
         "state": "Southern-District",
@@ -197113,14 +197257,14 @@
     },
     "LPAR": {
         "icao": "LPAR",
-        "iata": "",
+        "iata": "AVR",
         "name": "Alverca Airport",
-        "city": "",
+        "city": "Alverca",
         "state": "Lisbon",
         "country": "PT",
         "elevation": 11,
-        "lat": 38.8833007813,
-        "lon": -9.0300998688,
+        "lat": 38.885362,
+        "lon": -9.028311,
         "tz": "Europe/Lisbon"
     },
     "LPAV": {
@@ -197241,18 +197385,6 @@
         "elevation": 326,
         "lat": 38.7249984741,
         "lon": -9.3552303314,
-        "tz": "Europe/Lisbon"
-    },
-    "LPCV": {
-        "icao": "LPCV",
-        "iata": "COV",
-        "name": "Covilha Airport",
-        "city": "",
-        "state": "Castelo-Branco",
-        "country": "PT",
-        "elevation": 1572,
-        "lat": 40.2648010254,
-        "lon": -7.4799599648,
         "tz": "Europe/Lisbon"
     },
     "LPEV": {
@@ -199585,7 +199717,7 @@
     },
     "LTBE": {
         "icao": "LTBE",
-        "iata": "BTZ",
+        "iata": "",
         "name": "Bursa Airport",
         "city": "Bursa",
         "state": "Bursa",
@@ -200075,6 +200207,18 @@
         "lon": 43.8766479492,
         "tz": "Europe/Istanbul"
     },
+    "LTCU": {
+        "icao": "LTCU",
+        "iata": "BGG",
+        "name": "Bing\u00f6l Airport",
+        "city": "Bing\u00f6l",
+        "state": "Bing\u00f6l",
+        "country": "TR",
+        "elevation": 3492,
+        "lat": 38.861111,
+        "lon": 40.5925,
+        "tz": "Europe/Istanbul"
+    },
     "LTCW": {
         "icao": "LTCW",
         "iata": "YKO",
@@ -200097,6 +200241,18 @@
         "elevation": 269,
         "lat": 36.36277771,
         "lon": 36.2822227478,
+        "tz": "Europe/Istanbul"
+    },
+    "LTDB": {
+        "icao": "LTDB",
+        "iata": "COV",
+        "name": "\u00c7ukurova International Airport",
+        "city": "Tarsus",
+        "state": "Mersin",
+        "country": "TR",
+        "elevation": 19,
+        "lat": 36.892916,
+        "lon": 35.071971,
         "tz": "Europe/Istanbul"
     },
     "LTFA": {
@@ -202259,18 +202415,6 @@
         "lon": -71.205970645,
         "tz": "America/Santo_Domingo"
     },
-    "MDPO": {
-        "icao": "MDPO",
-        "iata": "EPS",
-        "name": "Samana El Portillo Airport",
-        "city": "Samana",
-        "state": "Samana",
-        "country": "DO",
-        "elevation": 30,
-        "lat": 19.3214150435,
-        "lon": -69.4959121943,
-        "tz": "America/Santo_Domingo"
-    },
     "MDPP": {
         "icao": "MDPP",
         "iata": "POP",
@@ -202293,18 +202437,6 @@
         "elevation": 1309,
         "lat": 18.8255004883,
         "lon": -71.2313995361,
-        "tz": "America/Santo_Domingo"
-    },
-    "MDSB": {
-        "icao": "MDSB",
-        "iata": "SNX",
-        "name": "Sabana de Mar Airport",
-        "city": "Sabana de Mar",
-        "state": "Hato-Mayor",
-        "country": "DO",
-        "elevation": 15,
-        "lat": 19.0618991852,
-        "lon": -69.3852005005,
         "tz": "America/Santo_Domingo"
     },
     "MDSD": {
@@ -204489,18 +204621,6 @@
         "elevation": 30,
         "lat": 15.0663890839,
         "lon": -83.2972183228,
-        "tz": "America/Tegucigalpa"
-    },
-    "MHSC": {
-        "icao": "MHSC",
-        "iata": "XPL",
-        "name": "Coronel Enrique Soto Cano Air Base",
-        "city": "Comayagua",
-        "state": "Comayagua",
-        "country": "HN",
-        "elevation": 2061,
-        "lat": 14.382399559,
-        "lon": -87.6212005615,
         "tz": "America/Tegucigalpa"
     },
     "MHSI": {
@@ -209675,18 +209795,6 @@
         "lon": -79.949798584,
         "tz": "America/Panama"
     },
-    "MPHO": {
-        "icao": "MPHO",
-        "iata": "BLB",
-        "name": "Howard Airport",
-        "city": "Panama City",
-        "state": "Panama",
-        "country": "PA",
-        "elevation": 52,
-        "lat": 8.9147901535,
-        "lon": -79.5996017456,
-        "tz": "America/Panama"
-    },
     "MPJE": {
         "icao": "MPJE",
         "iata": "JQE",
@@ -210001,7 +210109,7 @@
     },
     "MRCA": {
         "icao": "MRCA",
-        "iata": "CSC",
+        "iata": "",
         "name": "Codela Airport",
         "city": "Guapiles",
         "state": "Guanacaste",
@@ -215231,6 +215339,18 @@
         "lon": -77.7956008911,
         "tz": "America/Nassau"
     },
+    "MYAG": {
+        "icao": "MYAG",
+        "iata": "",
+        "name": "Castaway Cay Airport",
+        "city": "Castaway Cay",
+        "state": "North Abaco",
+        "country": "BS",
+        "elevation": 20,
+        "lat": 26.090667,
+        "lon": -77.540226,
+        "tz": "America/Nassau"
+    },
     "MYAK": {
         "icao": "MYAK",
         "iata": "COX",
@@ -215377,7 +215497,7 @@
     },
     "MYCB": {
         "icao": "MYCB",
-        "iata": "CAT",
+        "iata": "TBI",
         "name": "New Bight Airport",
         "city": "Cat Island",
         "state": "Cat-Island",
@@ -215605,7 +215725,7 @@
     },
     "MYGM": {
         "icao": "MYGM",
-        "iata": "GBI",
+        "iata": "",
         "name": "Auxiliary Airfield",
         "city": "Grand Bahama",
         "state": "East-Grand-Bahama",
@@ -215853,6 +215973,18 @@
         "elevation": 15,
         "lat": 17.539100647,
         "lon": -88.3081970215,
+        "tz": "America/Belize"
+    },
+    "MZPB": {
+        "icao": "MZPB",
+        "iata": "DGA",
+        "name": "Pelican Beach Airstrip",
+        "city": "Dangriga",
+        "state": "Stann Creek",
+        "country": "BZ",
+        "elevation": 10,
+        "lat": 16.98232,
+        "lon": -88.228497,
         "tz": "America/Belize"
     },
     "NA01": {
@@ -226129,14 +226261,14 @@
     },
     "OEDM": {
         "icao": "OEDM",
-        "iata": "",
-        "name": "Prince Salman Bin Abdulaziz Airport",
-        "city": "",
+        "iata": "DWD",
+        "name": "Dawadmi Domestic Airport",
+        "city": "Dawadmi",
         "state": "Ar-Riya\u1e11",
         "country": "SA",
-        "elevation": 3026,
-        "lat": 24.4498996735,
-        "lon": 44.1212005615,
+        "elevation": 3031,
+        "lat": 24.449722,
+        "lon": 44.121111,
         "tz": "Asia/Riyadh"
     },
     "OEDR": {
@@ -226149,18 +226281,6 @@
         "elevation": 84,
         "lat": 26.2653999329,
         "lon": 50.1520004272,
-        "tz": "Asia/Riyadh"
-    },
-    "OEDW": {
-        "icao": "OEDW",
-        "iata": "DWD",
-        "name": "Dawadmi Domestic Airport",
-        "city": "Dawadmi",
-        "state": "Ar-Riya\u1e11",
-        "country": "SA",
-        "elevation": 3429,
-        "lat": 24.5,
-        "lon": 44.4000015259,
         "tz": "Asia/Riyadh"
     },
     "OEGN": {
@@ -226323,12 +226443,24 @@
         "icao": "OENG",
         "iata": "EAM",
         "name": "Nejran Airport",
-        "city": "",
-        "state": "",
+        "city": "Nejran",
+        "state": "Najran",
         "country": "SA",
-        "elevation": 3982,
+        "elevation": 3983,
         "lat": 17.6114006042,
         "lon": 44.4192008972,
+        "tz": "Asia/Riyadh"
+    },
+    "OENN": {
+        "icao": "OENN",
+        "iata": "NUM",
+        "name": "Neom Bay Airport",
+        "city": "Neom",
+        "state": "Tabuk Region",
+        "country": "SA",
+        "elevation": 29,
+        "lat": 27.9276,
+        "lon": 35.2887,
         "tz": "Asia/Riyadh"
     },
     "OENR": {
@@ -228699,7 +228831,7 @@
         "icao": "OIAG",
         "iata": "AKW",
         "name": "Aghajari Airport",
-        "city": "",
+        "city": "Omidiyeh",
         "state": "Khuzestan",
         "country": "IR",
         "elevation": 88,
@@ -228865,7 +228997,7 @@
     },
     "OIBP": {
         "icao": "OIBP",
-        "iata": "YEH",
+        "iata": "PGU",
         "name": "Persian Gulf International Airport",
         "city": "Asalouyeh",
         "state": "Bushehr",
@@ -229537,7 +229669,7 @@
     },
     "OINB": {
         "icao": "OINB",
-        "iata": "BBL",
+        "iata": "",
         "name": "Babolsar Airport",
         "city": "Babolsar",
         "state": "Mazandaran",
@@ -231227,6 +231359,18 @@
         "lon": 53.0771408081,
         "tz": "Asia/Dubai"
     },
+    "OMBY": {
+        "icao": "OMBY",
+        "iata": "XSB",
+        "name": "Sir Bani Yas Airport",
+        "city": "Sir Bani Yas",
+        "state": "Abu Dhabi",
+        "country": "AE",
+        "elevation": 14,
+        "lat": 24.282196,
+        "lon": 52.582068,
+        "tz": "Asia/Dubai"
+    },
     "OMDB": {
         "icao": "OMDB",
         "iata": "DXB",
@@ -231334,6 +231478,18 @@
         "lat": 25.5772228241,
         "lon": 55.6511116028,
         "tz": "Asia/Dubai"
+    },
+    "OOAD": {
+        "icao": "OOAD",
+        "iata": "AOM",
+        "name": "Adam Airport",
+        "city": "Adam",
+        "state": "Ad Dakhiliyah",
+        "country": "OM",
+        "elevation": 1075,
+        "lat": 22.493056,
+        "lon": 57.381944,
+        "tz": "Asia/Muscat"
     },
     "OOBR": {
         "icao": "OOBR",
@@ -232235,6 +232391,18 @@
         "lon": 71.4400024414,
         "tz": "Asia/Karachi"
     },
+    "OPKW": {
+        "icao": "OPKW",
+        "iata": "KCF",
+        "name": "Kadanwari Airport",
+        "city": "Kadanwari",
+        "state": "Sindh",
+        "country": "PK",
+        "elevation": 279,
+        "lat": 27.21,
+        "lon": 69.29,
+        "tz": "Asia/Karachi"
+    },
     "OPLA": {
         "icao": "OPLA",
         "iata": "LHE",
@@ -232537,8 +232705,8 @@
     },
     "OPRN": {
         "icao": "OPRN",
-        "iata": "ISB",
-        "name": "Benazir Bhutto International Airport",
+        "iata": "",
+        "name": "PAF Base Nur Khan Airport",
         "city": "Islamabad",
         "state": "Punjab",
         "country": "PK",
@@ -234169,14 +234337,14 @@
     },
     "OYAB": {
         "icao": "OYAB",
-        "iata": "",
-        "name": "Ibb Airport",
-        "city": "",
-        "state": "Sanaa",
+        "iata": "EAB",
+        "name": "Abs Airport",
+        "city": "Abs",
+        "state": "Hajjah",
         "country": "YE",
-        "elevation": 0,
-        "lat": 16.010753477,
-        "lon": 43.1781148911,
+        "elevation": 650,
+        "lat": 16.011111,
+        "lon": 43.177778,
         "tz": "Asia/Aden"
     },
     "OYAT": {
@@ -235787,6 +235955,18 @@
         "lon": -171.733001709,
         "tz": "America/Nome"
     },
+    "PAGN": {
+        "icao": "PAGN",
+        "iata": "AGN",
+        "name": "Angoon Seaplane Base",
+        "city": "Angoon",
+        "state": "Alaska",
+        "country": "US",
+        "elevation": 0,
+        "lat": 57.503611,
+        "lon": -134.585,
+        "tz": "America/Juneau"
+    },
     "PAGQ": {
         "icao": "PAGQ",
         "iata": "BGQ",
@@ -236245,7 +236425,7 @@
     },
     "PAKW": {
         "icao": "PAKW",
-        "iata": "AKW",
+        "iata": "KLW",
         "name": "Klawock Airport",
         "city": "Klawock",
         "state": "Alaska",
@@ -236289,6 +236469,18 @@
         "elevation": 55,
         "lat": 61.5363006592,
         "lon": -160.341003418,
+        "tz": "America/Anchorage"
+    },
+    "PALH": {
+        "icao": "PALH",
+        "iata": "",
+        "name": "Lake Hood Seaplane Base",
+        "city": "Anchorage",
+        "state": "Alaska",
+        "country": "US",
+        "elevation": 79,
+        "lat": 61.1866392,
+        "lon": -149.9653936,
         "tz": "America/Anchorage"
     },
     "PALJ": {
@@ -236677,7 +236869,7 @@
     },
     "PAPB": {
         "icao": "PAPB",
-        "iata": "PBV",
+        "iata": "STG",
         "name": "St George Airport",
         "city": "St George",
         "state": "Alaska",
@@ -236929,7 +237121,7 @@
     },
     "PASL": {
         "icao": "PASL",
-        "iata": "SQL",
+        "iata": "SLQ",
         "name": "Sleetmute Airport",
         "city": "Sleetmute",
         "state": "Alaska",
@@ -237093,18 +237285,6 @@
         "elevation": 21,
         "lat": 59.0527992249,
         "lon": -160.3970031738,
-        "tz": "America/Anchorage"
-    },
-    "PATJ": {
-        "icao": "PATJ",
-        "iata": "TKJ",
-        "name": "Tok Airport",
-        "city": "Tok",
-        "state": "Alaska",
-        "country": "US",
-        "elevation": 1670,
-        "lat": 63.303333,
-        "lon": -143.001111,
         "tz": "America/Anchorage"
     },
     "PATK": {
@@ -239339,9 +239519,21 @@
         "lon": 118.3590011597,
         "tz": "Asia/Taipei"
     },
+    "RCCM": {
+        "icao": "RCCM",
+        "iata": "CMJ",
+        "name": "Qimei Airport",
+        "city": "Qimei",
+        "state": "Penghu",
+        "country": "TW",
+        "elevation": 63,
+        "lat": 23.213056,
+        "lon": 119.4175,
+        "tz": "Asia/Taipei"
+    },
     "RCDC": {
         "icao": "RCDC",
-        "iata": "PIF",
+        "iata": "",
         "name": "Pingtung South Airport",
         "city": "Pingtung",
         "state": "Taiwan",
@@ -241561,9 +241753,9 @@
     },
     "RKND": {
         "icao": "RKND",
-        "iata": "SHO",
+        "iata": "",
         "name": "Sokcho Airport",
-        "city": "",
+        "city": "Sokcho",
         "state": "Gangwon-do",
         "country": "KR",
         "elevation": 92,
@@ -242234,7 +242426,7 @@
     "RPLC": {
         "icao": "RPLC",
         "iata": "CRK",
-        "name": "Diosdado Macapagal International Airport",
+        "name": "Clark International Airport",
         "city": "Angeles City",
         "state": "Central-Luzon",
         "country": "PH",
@@ -242437,8 +242629,8 @@
     },
     "RPMB": {
         "icao": "RPMB",
-        "iata": "GES",
-        "name": "General Santos International Airport",
+        "iata": "",
+        "name": "Rajah Buayan Air Station Airport",
         "city": "General Santos City",
         "state": "Soccsksargen",
         "country": "PH",
@@ -242545,8 +242737,8 @@
     },
     "RPML": {
         "icao": "RPML",
-        "iata": "CGY",
-        "name": "Cagayan De Oro Airport",
+        "iata": "",
+        "name": "Lumbia Airfield Airport",
         "city": "Cagayan De Oro City",
         "state": "Northern-Mindanao",
         "country": "PH",
@@ -242618,8 +242810,8 @@
     "RPMR": {
         "icao": "RPMR",
         "iata": "GES",
-        "name": "Tambler Airport",
-        "city": "",
+        "name": "General Santos International Airport",
+        "city": "General Santos",
         "state": "Soccsksargen",
         "country": "PH",
         "elevation": 505,
@@ -242678,13 +242870,13 @@
     "RPMY": {
         "icao": "RPMY",
         "iata": "CGY",
-        "name": "Malaybalay Airport",
-        "city": "Malaybalay City",
+        "name": "Laguindingan Airport",
+        "city": "Laguindingan",
         "state": "Northern-Mindanao",
         "country": "PH",
-        "elevation": 2051,
-        "lat": 8.1416597366,
-        "lon": 125.1169967651,
+        "elevation": 191,
+        "lat": 8.612338251,
+        "lon": 124.4576908,
         "tz": "Asia/Manila"
     },
     "RPMZ": {
@@ -243237,18 +243429,6 @@
         "elevation": 23,
         "lat": 10.765999794,
         "lon": 121.932998657,
-        "tz": "Asia/Manila"
-    },
-    "RPVT": {
-        "icao": "RPVT",
-        "iata": "TAG",
-        "name": "Tagbilaran Airport",
-        "city": "Tagbilaran City",
-        "state": "Central-Visayas",
-        "country": "PH",
-        "elevation": 38,
-        "lat": 9.6640796661,
-        "lon": 123.8529968262,
         "tz": "Asia/Manila"
     },
     "RPVU": {
@@ -246218,13 +246398,13 @@
     "SBCD": {
         "icao": "SBCD",
         "iata": "CFC",
-        "name": "Cacador Airport",
-        "city": "Cacador",
-        "state": "Santa-Catarina",
+        "name": "Ca\u00e7ador Airport",
+        "city": "Ca\u00e7ador",
+        "state": "Santa Catarina",
         "country": "BR",
         "elevation": 3376,
-        "lat": -26.78840065,
-        "lon": -50.9398002625,
+        "lat": -26.788056,
+        "lon": -50.939999,
         "tz": "America/Sao_Paulo"
     },
     "SBCF": {
@@ -247105,7 +247285,7 @@
     },
     "SBNT": {
         "icao": "SBNT",
-        "iata": "NAT",
+        "iata": "",
         "name": "Augusto Severo Airport",
         "city": "Natal",
         "state": "Rio-Grande-do-Norte",
@@ -247271,18 +247451,6 @@
         "lon": -63.9023017883,
         "tz": "America/Porto_Velho"
     },
-    "SBQV": {
-        "icao": "SBQV",
-        "iata": "VDC",
-        "name": "Vitoria da Conquista Airport",
-        "city": "Vitoria Da Conquista",
-        "state": "Bahia",
-        "country": "BR",
-        "elevation": 3002,
-        "lat": -14.8627996445,
-        "lon": -40.8630981445,
-        "tz": "America/Bahia"
-    },
     "SBRB": {
         "icao": "SBRB",
         "iata": "RBR",
@@ -247354,6 +247522,18 @@
         "lat": -22.9323997498,
         "lon": -43.7191009521,
         "tz": "America/Sao_Paulo"
+    },
+    "SBSG": {
+        "icao": "SBSG",
+        "iata": "NAT",
+        "name": "Greater Natal International Airport",
+        "city": "Sao Goncalo Do Amarante",
+        "state": "Rio Grande do Norte",
+        "country": "BR",
+        "elevation": 273,
+        "lat": -5.7698,
+        "lon": -35.36658,
+        "tz": "America/Fortaleza"
     },
     "SBSJ": {
         "icao": "SBSJ",
@@ -247447,8 +247627,8 @@
         "state": "Bahia",
         "country": "BR",
         "elevation": 64,
-        "lat": -12.068355039634072,
-        "lon": -45.7114544107571,
+        "lat": -12.908623960607166,
+        "lon": -38.3228798872924,
         "tz": "America/Bahia"
     },
     "SBTA": {
@@ -249659,18 +249839,6 @@
         "lon": -71.0141677856,
         "tz": "America/Santiago"
     },
-    "SCEV": {
-        "icao": "SCEV",
-        "iata": "FRT",
-        "name": "El Avellano Airport",
-        "city": "Frutillar",
-        "state": "Los-Lagos",
-        "country": "CL",
-        "elevation": 489,
-        "lat": -41.1170005798,
-        "lon": -73.0500030518,
-        "tz": "America/Santiago"
-    },
     "SCEX": {
         "icao": "SCEX",
         "iata": "",
@@ -249733,7 +249901,7 @@
     },
     "SCFI": {
         "icao": "SCFI",
-        "iata": "FRT",
+        "iata": "",
         "name": "Fundo Tehuen Airport",
         "city": "Frutillar",
         "state": "Los-Lagos",
@@ -249817,7 +249985,7 @@
     },
     "SCFR": {
         "icao": "SCFR",
-        "iata": "",
+        "iata": "FRT",
         "name": "Frutillar Airport",
         "city": "Frutillar",
         "state": "Los-Lagos",
@@ -255253,12 +255421,12 @@
     },
     "SDLO": {
         "icao": "SDLO",
-        "iata": "",
+        "iata": "PBA",
         "name": "Fazenda Pontal Airport",
         "city": "Cairu",
         "state": "Bahia",
         "country": "BR",
-        "elevation": 12,
+        "elevation": 20,
         "lat": -13.5648002625,
         "lon": -38.9399986267,
         "tz": "America/Bahia"
@@ -256990,6 +257158,18 @@
         "lat": -20.3474998474,
         "lon": -48.7724990845,
         "tz": "America/Sao_Paulo"
+    },
+    "SDWQ": {
+        "icao": "SDWQ",
+        "iata": "ALT",
+        "name": "Alenquer Airport",
+        "city": "Alenquer",
+        "state": "Par\u00e1",
+        "country": "BR",
+        "elevation": 102,
+        "lat": -1.916944,
+        "lon": -54.722778,
+        "tz": "America/Santarem"
     },
     "SDWR": {
         "icao": "SDWR",
@@ -269159,18 +269339,6 @@
         "lon": -76.6865,
         "tz": "America/Bogota"
     },
-    "SKIO": {
-        "icao": "SKIO",
-        "iata": "MMP",
-        "name": "Cicuco Airport",
-        "city": "Limon",
-        "state": "Bolivar",
-        "country": "CO",
-        "elevation": 65,
-        "lat": 9.26878,
-        "lon": -74.6523,
-        "tz": "America/Bogota"
-    },
     "SKIP": {
         "icao": "SKIP",
         "iata": "IPI",
@@ -271765,7 +271933,7 @@
     },
     "SLSU": {
         "icao": "SLSU",
-        "iata": "SRE",
+        "iata": "",
         "name": "Juana Azurduy De Padilla Airport",
         "city": "Sucre",
         "state": "Chuquisaca",
@@ -276121,15 +276289,15 @@
     },
     "SNLB": {
         "icao": "SNLB",
-        "iata": "LVB",
-        "name": "Livramento do Brumado Airport",
-        "city": "Livramento Do Brumado",
-        "state": "Bahia",
+        "iata": "",
+        "name": "Fazenda Magdalena",
+        "city": "L\u00e1brea",
+        "state": "Amazonas",
         "country": "BR",
-        "elevation": 1559,
-        "lat": -13.6506004333,
-        "lon": -41.8339004517,
-        "tz": "America/Bahia"
+        "elevation": 466,
+        "lat": -9.203056,
+        "lon": -65.708611,
+        "tz": "America/Manaus"
     },
     "SNLC": {
         "icao": "SNLC",
@@ -277022,11 +277190,11 @@
     "SNOU": {
         "icao": "SNOU",
         "iata": "FEJ",
-        "name": "Novo Aerodromo de Feijo Airport",
+        "name": "Feij\u00f3 Airport ",
         "city": "Feijo",
         "state": "Acre",
         "country": "BR",
-        "elevation": 394,
+        "elevation": 551,
         "lat": -8.140832901,
         "lon": -70.3472213745,
         "tz": "America/Rio_Branco"
@@ -280033,12 +280201,12 @@
     },
     "SPAY": {
         "icao": "SPAY",
-        "iata": "ATG",
+        "iata": "AYX",
         "name": "Teniente General Gerardo Perez Pinedo Airport",
         "city": "Atalaya",
         "state": "Junin",
         "country": "PE",
-        "elevation": 751,
+        "elevation": 1900,
         "lat": -10.7291002274,
         "lon": -73.7665023804,
         "tz": "America/Lima"
@@ -281737,7 +281905,7 @@
     },
     "SPZA": {
         "icao": "SPZA",
-        "iata": "NZA",
+        "iata": "NZC",
         "name": "Maria Reiche Neuman Airport",
         "city": "",
         "state": "Ica",
@@ -282397,12 +282565,12 @@
     },
     "SSCN": {
         "icao": "SSCN",
-        "iata": "QCN",
+        "iata": "CEL",
         "name": "Canela Airport",
         "city": "Canela",
-        "state": "Rio-Grande-do-Sul",
+        "state": "Rio Grande do Sul",
         "country": "BR",
-        "elevation": 2723,
+        "elevation": 2713,
         "lat": -29.3701992035,
         "lon": -50.8320007324,
         "tz": "America/Sao_Paulo"
@@ -284641,15 +284809,15 @@
     },
     "SSLI": {
         "icao": "SSLI",
-        "iata": "LVB",
-        "name": "Estancia Portal do Sol Airport",
-        "city": "Itirapina",
-        "state": "Sao Paulo",
+        "iata": "",
+        "name": "Fazenda Nova Piuva",
+        "city": "Aquidauana",
+        "state": "Mato Grosso do Sul",
         "country": "BR",
-        "elevation": 2425,
-        "lat": -22.165278,
-        "lon": -47.892778,
-        "tz": "America/Sao_Paulo"
+        "elevation": 499,
+        "lat": -19.8643307,
+        "lon": -55.5129512,
+        "tz": "America/Campo_Grande"
     },
     "SSLJ": {
         "icao": "SSLJ",
@@ -285494,14 +285662,14 @@
     "SSOU": {
         "icao": "SSOU",
         "iata": "AIR",
-        "name": "Fazenda Inhumas Airport",
-        "city": "Paracatu",
-        "state": "Minas Gerais",
+        "name": "Aripuan\u00e3 Airport",
+        "city": "Aripuan\u00e3",
+        "state": "Mato Grosso",
         "country": "BR",
-        "elevation": 1772,
-        "lat": -17.0369434357,
-        "lon": -46.2602767944,
-        "tz": "America/Sao_Paulo"
+        "elevation": 755,
+        "lat": -10.185556,
+        "lon": -59.457778,
+        "tz": "America/Cuiaba"
     },
     "SSOV": {
         "icao": "SSOV",
@@ -286449,6 +286617,18 @@
         "elevation": 2311,
         "lat": -28.5508327484,
         "lon": -51.5961112976,
+        "tz": "America/Sao_Paulo"
+    },
+    "SSTE": {
+        "icao": "SSTE",
+        "iata": "TSQ",
+        "name": "Torres Airport",
+        "city": "Torres",
+        "state": "Rio Grande do Sul",
+        "country": "BR",
+        "elevation": 30,
+        "lat": -29.414939,
+        "lon": -49.809978,
         "tz": "America/Sao_Paulo"
     },
     "SSTF": {
@@ -288013,7 +288193,7 @@
     },
     "SUCM": {
         "icao": "SUCM",
-        "iata": "CAR",
+        "iata": "",
         "name": "Carmelo International Airport",
         "city": "Carmelo",
         "state": "Colonia",
@@ -288049,7 +288229,7 @@
     },
     "SUME": {
         "icao": "SUME",
-        "iata": "MER",
+        "iata": "",
         "name": "Ricardo de Tomasi International Airport",
         "city": "Mercedes",
         "state": "Soriano",
@@ -288085,7 +288265,7 @@
     },
     "SUPE": {
         "icao": "SUPE",
-        "iata": "MDO",
+        "iata": "",
         "name": "El Jaguel / Punta del Este Airport",
         "city": "Maldonado",
         "state": "Maldonado",
@@ -289021,7 +289201,7 @@
     },
     "SVDA": {
         "icao": "SVDA",
-        "iata": "isl",
+        "iata": "",
         "name": "La Tortuga Punta Delgada Airport",
         "city": "Isla La Tortuga",
         "state": "Dependencias-Federales",
@@ -294011,18 +294191,6 @@
         "lon": -49.9808311462,
         "tz": "America/Araguaina"
     },
-    "SWFJ": {
-        "icao": "SWFJ",
-        "iata": "FEJ",
-        "name": "Feijo Airport",
-        "city": "Feijo",
-        "state": "",
-        "country": "BR",
-        "elevation": 394,
-        "lat": -8.1655797958,
-        "lon": -70.3529968262,
-        "tz": "America/Rio_Branco"
-    },
     "SWFK": {
         "icao": "SWFK",
         "iata": "",
@@ -296893,14 +297061,14 @@
     },
     "SWRP": {
         "icao": "SWRP",
-        "iata": "AIR",
-        "name": "Aripuana Airport",
-        "city": "Aripuana",
+        "iata": "",
+        "name": "Teles Pires Lodge",
+        "city": "Apiac\u00e1s",
         "state": "Mato Grosso",
         "country": "BR",
-        "elevation": 623,
-        "lat": -10.2502775192,
-        "lon": -59.3838882446,
+        "elevation": 449,
+        "lat": -8.863667,
+        "lon": -57.4205,
         "tz": "America/Cuiaba"
     },
     "SWRR": {
@@ -302771,6 +302939,18 @@
         "lon": -64.4274978638,
         "tz": "America/Tortola"
     },
+    "TVSA": {
+        "icao": "TVSA",
+        "iata": "SVD",
+        "name": "Argyle International Airport",
+        "city": "Argyle",
+        "state": "Saint-George",
+        "country": "VC",
+        "elevation": 109,
+        "lat": 13.1626683736,
+        "lon": -61.15137008,
+        "tz": "America/St_Vincent"
+    },
     "TVSB": {
         "icao": "TVSB",
         "iata": "BQU",
@@ -302817,18 +302997,6 @@
         "elevation": 16,
         "lat": 12.6001348495,
         "lon": -61.411945343,
-        "tz": "America/St_Vincent"
-    },
-    "TVSV": {
-        "icao": "TVSV",
-        "iata": "SVD",
-        "name": "E. T. Joshua Airport",
-        "city": "Kingstown",
-        "state": "Saint-George",
-        "country": "VC",
-        "elevation": 66,
-        "lat": 13.1443004608,
-        "lon": -61.210899353,
         "tz": "America/St_Vincent"
     },
     "TX00": {
@@ -303683,18 +303851,6 @@
         "lon": 72.7264022827,
         "tz": "Asia/Almaty"
     },
-    "UA66": {
-        "icao": "UA66",
-        "iata": "",
-        "name": "Chirchik Airport",
-        "city": "Chirchik",
-        "state": "Toshkent",
-        "country": "UZ",
-        "elevation": 2296,
-        "lat": 41.5167999268,
-        "lon": 69.5754013062,
-        "tz": "Asia/Tashkent"
-    },
     "UAAA": {
         "icao": "UAAA",
         "iata": "ALA",
@@ -304321,7 +304477,7 @@
     },
     "UCFM": {
         "icao": "UCFM",
-        "iata": "FRU",
+        "iata": "BSZ",
         "name": "Manas International Airport",
         "city": "Bishkek",
         "state": "Chuey",
@@ -304501,7 +304657,7 @@
     },
     "UELL": {
         "icao": "UELL",
-        "iata": "CNN",
+        "iata": "NER",
         "name": "Chulman Airport",
         "city": "Chulman",
         "state": "Chukot",
@@ -305543,6 +305699,18 @@
         "lon": 142.7180023193,
         "tz": "Asia/Sakhalin"
     },
+    "UHTG": {
+        "icao": "UHTG",
+        "iata": "AEM",
+        "name": "Amgu Airport",
+        "city": "Amgu",
+        "state": "Primorsky Krai",
+        "country": "RU",
+        "elevation": 11,
+        "lat": 45.84126,
+        "lon": 137.673568,
+        "tz": "Asia/Vladivostok"
+    },
     "UHU1": {
         "icao": "UHU1",
         "iata": "",
@@ -305890,6 +306058,18 @@
         "lat": 51.25,
         "lon": 33.1500015259,
         "tz": "Europe/Kyiv"
+    },
+    "UKBM": {
+        "icao": "UKBM",
+        "iata": "MXR",
+        "name": "Myrhorod Air Base",
+        "city": "Myrhorod",
+        "state": "Poltava Oblast",
+        "country": "UA",
+        "elevation": 443,
+        "lat": 49.931667,
+        "lon": 33.639444,
+        "tz": "Europe/Kiev"
     },
     "UKCC": {
         "icao": "UKCC",
@@ -306529,7 +306709,7 @@
     },
     "ULBC": {
         "icao": "ULBC",
-        "iata": "CEE",
+        "iata": "",
         "name": "Cherepovets Airport",
         "city": "Cherepovets",
         "state": "Vologda",
@@ -307957,7 +308137,7 @@
     },
     "URFF": {
         "icao": "URFF",
-        "iata": "SIP",
+        "iata": "",
         "name": "Simferopol International Airport",
         "city": "Simferopol",
         "state": "Republic-of-Crimea",
@@ -308963,66 +309143,6 @@
         "lon": -112.3320007324,
         "tz": "America/Denver"
     },
-    "UT1M": {
-        "icao": "UT1M",
-        "iata": "",
-        "name": "Kakaydy Airport",
-        "city": "Goran",
-        "state": "Surxondaryo",
-        "country": "UZ",
-        "elevation": 1207,
-        "lat": 37.6242980957,
-        "lon": 67.5176010132,
-        "tz": "Asia/Samarkand"
-    },
-    "UT1N": {
-        "icao": "UT1N",
-        "iata": "",
-        "name": "Karshi South Airport",
-        "city": "Karshi",
-        "state": "Qashqadaryo",
-        "country": "UZ",
-        "elevation": 1194,
-        "lat": 38.8018989563,
-        "lon": 65.7746963501,
-        "tz": "Asia/Samarkand"
-    },
-    "UT1O": {
-        "icao": "UT1O",
-        "iata": "",
-        "name": "Beleuli North Airport",
-        "city": "Beleuli",
-        "state": "Karakalpakstan",
-        "country": "UZ",
-        "elevation": 413,
-        "lat": 44.0541000366,
-        "lon": 57.5477981567,
-        "tz": "Asia/Samarkand"
-    },
-    "UT1P": {
-        "icao": "UT1P",
-        "iata": "",
-        "name": "Kagan South Airport",
-        "city": "Kagan",
-        "state": "Bukhara",
-        "country": "UZ",
-        "elevation": 689,
-        "lat": 39.6893997192,
-        "lon": 64.5503997803,
-        "tz": "Asia/Samarkand"
-    },
-    "UT1Q": {
-        "icao": "UT1Q",
-        "iata": "",
-        "name": "Pakhtakor Airport",
-        "city": "Pakhtakor",
-        "state": "Jizzax",
-        "country": "UZ",
-        "elevation": 1023,
-        "lat": 40.2527008057,
-        "lon": 67.9107971191,
-        "tz": "Asia/Tashkent"
-    },
     "UT24": {
         "icao": "UT24",
         "iata": "",
@@ -309311,18 +309431,6 @@
         "lon": -114.0370025635,
         "tz": "America/Denver"
     },
-    "UT73": {
-        "icao": "UT73",
-        "iata": "",
-        "name": "Maymanak Airport",
-        "city": "Maynanak",
-        "state": "Qashqadaryo",
-        "country": "UZ",
-        "elevation": 1047,
-        "lat": 39.1377983093,
-        "lon": 65.1652984619,
-        "tz": "Asia/Samarkand"
-    },
     "UT74": {
         "icao": "UT74",
         "iata": "",
@@ -309346,18 +309454,6 @@
         "lat": 38.5315831779,
         "lon": -109.995889664,
         "tz": "America/Denver"
-    },
-    "UT77": {
-        "icao": "UT77",
-        "iata": "",
-        "name": "Kungrad Airport",
-        "city": "Kungrad",
-        "state": "Karakalpakstan",
-        "country": "UZ",
-        "elevation": 180,
-        "lat": 43.0830001831,
-        "lon": 58.8842010498,
-        "tz": "Asia/Samarkand"
     },
     "UT79": {
         "icao": "UT79",
@@ -309479,6 +309575,18 @@
         "lon": 61.8967018127,
         "tz": "Asia/Ashgabat"
     },
+    "UTAN": {
+        "icao": "UTAN",
+        "iata": "BKN",
+        "name": "Balkanabat International Airport",
+        "city": "Jebel",
+        "state": "Balkan",
+        "country": "TM",
+        "elevation": -31,
+        "lat": 39.6805,
+        "lon": 54.204667,
+        "tz": "Asia/Ashgabat"
+    },
     "UTAT": {
         "icao": "UTAT",
         "iata": "TAZ",
@@ -309551,102 +309659,6 @@
         "lon": 68.8647003174,
         "tz": "Asia/Dushanbe"
     },
-    "UTKA": {
-        "icao": "UTKA",
-        "iata": "AZN",
-        "name": "Andizhan Airport",
-        "city": "Andizhan",
-        "state": "Andijon",
-        "country": "UZ",
-        "elevation": 1515,
-        "lat": 40.7276992798,
-        "lon": 72.2939987183,
-        "tz": "Asia/Tashkent"
-    },
-    "UTKF": {
-        "icao": "UTKF",
-        "iata": "FEG",
-        "name": "Fergana Airport",
-        "city": "Fergana",
-        "state": "Fergana",
-        "country": "UZ",
-        "elevation": 1980,
-        "lat": 40.3587989807,
-        "lon": 71.7450027466,
-        "tz": "Asia/Tashkent"
-    },
-    "UTKK": {
-        "icao": "UTKK",
-        "iata": "",
-        "name": "Kokand Airport",
-        "city": "Kokand",
-        "state": "Fergana",
-        "country": "UZ",
-        "elevation": 1357,
-        "lat": 40.5397987366,
-        "lon": 70.9748001099,
-        "tz": "Asia/Tashkent"
-    },
-    "UTKN": {
-        "icao": "UTKN",
-        "iata": "NMA",
-        "name": "Namangan Airport",
-        "city": "Namangan",
-        "state": "Namangan",
-        "country": "UZ",
-        "elevation": 1555,
-        "lat": 40.9846000671,
-        "lon": 71.5567016602,
-        "tz": "Asia/Tashkent"
-    },
-    "UTNM": {
-        "icao": "UTNM",
-        "iata": "MOK",
-        "name": "Muynak Airport",
-        "city": "Muynak",
-        "state": "Karakalpakstan",
-        "country": "UZ",
-        "elevation": 177,
-        "lat": 43.7551994324,
-        "lon": 59.0308990479,
-        "tz": "Asia/Samarkand"
-    },
-    "UTNN": {
-        "icao": "UTNN",
-        "iata": "NCU",
-        "name": "Nukus Airport",
-        "city": "Nukus",
-        "state": "Karakalpakstan",
-        "country": "UZ",
-        "elevation": 246,
-        "lat": 42.4883995056,
-        "lon": 59.623298645,
-        "tz": "Asia/Samarkand"
-    },
-    "UTNT": {
-        "icao": "UTNT",
-        "iata": "",
-        "name": "Turtkul Airport",
-        "city": "Turtkul",
-        "state": "Karakalpakstan",
-        "country": "UZ",
-        "elevation": 305,
-        "lat": 41.5750007629,
-        "lon": 60.9665985107,
-        "tz": "Asia/Samarkand"
-    },
-    "UTNU": {
-        "icao": "UTNU",
-        "iata": "UGC",
-        "name": "Urgench Airport",
-        "city": "Urgench",
-        "state": "Xorazm",
-        "country": "UZ",
-        "elevation": 320,
-        "lat": 41.5843009949,
-        "lon": 60.6417007446,
-        "tz": "Asia/Samarkand"
-    },
     "UTOD": {
         "icao": "UTOD",
         "iata": "",
@@ -309658,162 +309670,6 @@
         "lat": 37.502222,
         "lon": 71.513333,
         "tz": "Asia/Dushanbe"
-    },
-    "UTSA": {
-        "icao": "UTSA",
-        "iata": "NVI",
-        "name": "Navoi Airport",
-        "city": "Navoi",
-        "state": "Navoiy",
-        "country": "UZ",
-        "elevation": 0,
-        "lat": 40.1171989441,
-        "lon": 65.1707992554,
-        "tz": "Asia/Samarkand"
-    },
-    "UTSB": {
-        "icao": "UTSB",
-        "iata": "BHK",
-        "name": "Bukhara Airport",
-        "city": "Bukhara",
-        "state": "",
-        "country": "UZ",
-        "elevation": 751,
-        "lat": 39.7750015259,
-        "lon": 64.4832992554,
-        "tz": "Asia/Samarkand"
-    },
-    "UTSH": {
-        "icao": "UTSH",
-        "iata": "",
-        "name": "Shakhristabz Airport",
-        "city": "Shakhristabz",
-        "state": "Qashqadaryo",
-        "country": "UZ",
-        "elevation": 1900,
-        "lat": 39.0690994263,
-        "lon": 66.7543029785,
-        "tz": "Asia/Samarkand"
-    },
-    "UTSK": {
-        "icao": "UTSK",
-        "iata": "KSQ",
-        "name": "Karshi Airport",
-        "city": "Karshi",
-        "state": "Qashqadaryo",
-        "country": "UZ",
-        "elevation": 1365,
-        "lat": 38.8025,
-        "lon": 65.773056,
-        "tz": "Asia/Samarkand"
-    },
-    "UTSL": {
-        "icao": "UTSL",
-        "iata": "KSQ",
-        "name": "Karshi Khanabad Airport",
-        "city": "Khanabad",
-        "state": "Qashqadaryo",
-        "country": "UZ",
-        "elevation": 1365,
-        "lat": 38.8335990906,
-        "lon": 65.9215011597,
-        "tz": "Asia/Samarkand"
-    },
-    "UTSM": {
-        "icao": "UTSM",
-        "iata": "",
-        "name": "Tandy Bulak Airport",
-        "city": "Tandy Bulak",
-        "state": "Navoiy",
-        "country": "UZ",
-        "elevation": 716,
-        "lat": 41.7607917786,
-        "lon": 64.6024017334,
-        "tz": "Asia/Samarkand"
-    },
-    "UTSN": {
-        "icao": "UTSN",
-        "iata": "AFS",
-        "name": "Sugraly Airport",
-        "city": "Zarafshan",
-        "state": "Navoiy",
-        "country": "UZ",
-        "elevation": 1396,
-        "lat": 41.613899231,
-        "lon": 64.2332000732,
-        "tz": "Asia/Samarkand"
-    },
-    "UTSR": {
-        "icao": "UTSR",
-        "iata": "",
-        "name": "Sariasiya Airport",
-        "city": "Sariasiya",
-        "state": "Surxondaryo",
-        "country": "UZ",
-        "elevation": 1949,
-        "lat": 38.4105987549,
-        "lon": 67.9451980591,
-        "tz": "Asia/Samarkand"
-    },
-    "UTSS": {
-        "icao": "UTSS",
-        "iata": "SKD",
-        "name": "Samarkand Airport",
-        "city": "Samarkand",
-        "state": "",
-        "country": "UZ",
-        "elevation": 2224,
-        "lat": 39.7005004883,
-        "lon": 66.9838027954,
-        "tz": "Asia/Samarkand"
-    },
-    "UTST": {
-        "icao": "UTST",
-        "iata": "TMJ",
-        "name": "Termez Airport",
-        "city": "Termez",
-        "state": "Surxondaryo",
-        "country": "UZ",
-        "elevation": 1027,
-        "lat": 37.2867012024,
-        "lon": 67.3099975586,
-        "tz": "Asia/Samarkand"
-    },
-    "UTSU": {
-        "icao": "UTSU",
-        "iata": "",
-        "name": "Uchkuduk Airport",
-        "city": "Uchkuduk",
-        "state": "Navoiy",
-        "country": "UZ",
-        "elevation": 416,
-        "lat": 42.0830993652,
-        "lon": 63.4492988586,
-        "tz": "Asia/Samarkand"
-    },
-    "UTTP": {
-        "icao": "UTTP",
-        "iata": "",
-        "name": "Tashkent East Airport",
-        "city": "Tashkent",
-        "state": "Toshkent",
-        "country": "UZ",
-        "elevation": 1574,
-        "lat": 41.3126983643,
-        "lon": 69.3914031982,
-        "tz": "Asia/Tashkent"
-    },
-    "UTTT": {
-        "icao": "UTTT",
-        "iata": "TAS",
-        "name": "Tashkent International Airport",
-        "city": "Tashkent",
-        "state": "Toshkent-Shahri",
-        "country": "UZ",
-        "elevation": 1417,
-        "lat": 41.257900238,
-        "lon": 69.2811965942,
-        "tz": "Asia/Tashkent"
     },
     "UUBA": {
         "icao": "UUBA",
@@ -309853,7 +309709,7 @@
     },
     "UUBD": {
         "icao": "UUBD",
-        "iata": "KMW",
+        "iata": "",
         "name": "Dyagilevo Air Base",
         "city": "",
         "state": "Rjazan",
@@ -310798,6 +310654,366 @@
         "lat": 53.6180000305,
         "lon": 52.4440002441,
         "tz": "Asia/Yekaterinburg"
+    },
+    "UZ1M": {
+        "icao": "UZ1M",
+        "iata": "",
+        "name": "Kakaydy Airport",
+        "city": "Goran",
+        "state": "Surxondaryo",
+        "country": "UZ",
+        "elevation": 1207,
+        "lat": 37.6242980957,
+        "lon": 67.5176010132,
+        "tz": "Asia/Samarkand"
+    },
+    "UZ1N": {
+        "icao": "UZ1N",
+        "iata": "",
+        "name": "Karshi South Airport",
+        "city": "Karshi",
+        "state": "Qashqadaryo",
+        "country": "UZ",
+        "elevation": 1194,
+        "lat": 38.8018989563,
+        "lon": 65.7746963501,
+        "tz": "Asia/Samarkand"
+    },
+    "UZ1O": {
+        "icao": "UZ1O",
+        "iata": "",
+        "name": "Beleuli North Airport",
+        "city": "Beleuli",
+        "state": "Karakalpakstan",
+        "country": "UZ",
+        "elevation": 413,
+        "lat": 44.0541000366,
+        "lon": 57.5477981567,
+        "tz": "Asia/Samarkand"
+    },
+    "UZ1P": {
+        "icao": "UZ1P",
+        "iata": "",
+        "name": "Kagan South Airport",
+        "city": "Kagan",
+        "state": "Bukhara",
+        "country": "UZ",
+        "elevation": 689,
+        "lat": 39.6893997192,
+        "lon": 64.5503997803,
+        "tz": "Asia/Samarkand"
+    },
+    "UZ1Q": {
+        "icao": "UZ1Q",
+        "iata": "",
+        "name": "Pakhtakor Airport",
+        "city": "Pakhtakor",
+        "state": "Jizzax",
+        "country": "UZ",
+        "elevation": 1023,
+        "lat": 40.2527008057,
+        "lon": 67.9107971191,
+        "tz": "Asia/Tashkent"
+    },
+    "UZ73": {
+        "icao": "UZ73",
+        "iata": "",
+        "name": "Maymanak Airport",
+        "city": "Maynanak",
+        "state": "Qashqadaryo",
+        "country": "UZ",
+        "elevation": 1047,
+        "lat": 39.1377983093,
+        "lon": 65.1652984619,
+        "tz": "Asia/Samarkand"
+    },
+    "UZ77": {
+        "icao": "UZ77",
+        "iata": "",
+        "name": "Kungrad Airport",
+        "city": "Kungrad",
+        "state": "Karakalpakstan",
+        "country": "UZ",
+        "elevation": 180,
+        "lat": 43.0830001831,
+        "lon": 58.8842010498,
+        "tz": "Asia/Samarkand"
+    },
+    "UZFA": {
+        "icao": "UZFA",
+        "iata": "AZN",
+        "name": "Andijan Airport",
+        "city": "Andijan",
+        "state": "Andijan",
+        "country": "UZ",
+        "elevation": 1515,
+        "lat": 40.7276992798,
+        "lon": 72.2939987183,
+        "tz": "Asia/Tashkent"
+    },
+    "UZFF": {
+        "icao": "UZFF",
+        "iata": "FEG",
+        "name": "Fergana Airport",
+        "city": "Fergana",
+        "state": "Fergana",
+        "country": "UZ",
+        "elevation": 1980,
+        "lat": 40.3587989807,
+        "lon": 71.7450027466,
+        "tz": "Asia/Tashkent"
+    },
+    "UZFN": {
+        "icao": "UZFN",
+        "iata": "NMA",
+        "name": "Namangan Airport",
+        "city": "Namangan",
+        "state": "Namangan",
+        "country": "UZ",
+        "elevation": 1555,
+        "lat": 40.9846000671,
+        "lon": 71.5567016602,
+        "tz": "Asia/Tashkent"
+    },
+    "UZKK": {
+        "icao": "UZKK",
+        "iata": "OQN",
+        "name": "Kokand Airport",
+        "city": "Kokand",
+        "state": "Fergana",
+        "country": "UZ",
+        "elevation": 1357,
+        "lat": 40.5397987366,
+        "lon": 70.9748001099,
+        "tz": "Asia/Tashkent"
+    },
+    "UZNM": {
+        "icao": "UZNM",
+        "iata": "MOK",
+        "name": "Muynak Airport",
+        "city": "Muynak",
+        "state": "Karakalpakstan",
+        "country": "UZ",
+        "elevation": 177,
+        "lat": 43.7551994324,
+        "lon": 59.0308990479,
+        "tz": "Asia/Samarkand"
+    },
+    "UZNN": {
+        "icao": "UZNN",
+        "iata": "NCU",
+        "name": "Nukus Airport",
+        "city": "Nukus",
+        "state": "Karakalpakstan",
+        "country": "UZ",
+        "elevation": 246,
+        "lat": 42.4883995056,
+        "lon": 59.623298645,
+        "tz": "Asia/Samarkand"
+    },
+    "UZNT": {
+        "icao": "UZNT",
+        "iata": "",
+        "name": "Turtkul Airport",
+        "city": "Turtkul",
+        "state": "Karakalpakstan",
+        "country": "UZ",
+        "elevation": 305,
+        "lat": 41.5750007629,
+        "lon": 60.9665985107,
+        "tz": "Asia/Samarkand"
+    },
+    "UZNU": {
+        "icao": "UZNU",
+        "iata": "UGC",
+        "name": "Urgench Airport",
+        "city": "Urgench",
+        "state": "Xorazm",
+        "country": "UZ",
+        "elevation": 320,
+        "lat": 41.5843009949,
+        "lon": 60.6417007446,
+        "tz": "Asia/Samarkand"
+    },
+    "UZSA": {
+        "icao": "UZSA",
+        "iata": "NVI",
+        "name": "Navoi Airport",
+        "city": "Navoi",
+        "state": "Navoiy",
+        "country": "UZ",
+        "elevation": 0,
+        "lat": 40.1171989441,
+        "lon": 65.1707992554,
+        "tz": "Asia/Samarkand"
+    },
+    "UZSB": {
+        "icao": "UZSB",
+        "iata": "BHK",
+        "name": "Bukhara Airport",
+        "city": "Bukhara",
+        "state": "",
+        "country": "UZ",
+        "elevation": 751,
+        "lat": 39.7750015259,
+        "lon": 64.4832992554,
+        "tz": "Asia/Samarkand"
+    },
+    "UZSH": {
+        "icao": "UZSH",
+        "iata": "",
+        "name": "Shakhristabz Airport",
+        "city": "Shakhristabz",
+        "state": "Qashqadaryo",
+        "country": "UZ",
+        "elevation": 1900,
+        "lat": 39.0690994263,
+        "lon": 66.7543029785,
+        "tz": "Asia/Samarkand"
+    },
+    "UZSK": {
+        "icao": "UZSK",
+        "iata": "KSQ",
+        "name": "Karshi Airport",
+        "city": "Karshi",
+        "state": "Qashqadaryo",
+        "country": "UZ",
+        "elevation": 1232,
+        "lat": 38.8025,
+        "lon": 65.773056,
+        "tz": "Asia/Samarkand"
+    },
+    "UZSL": {
+        "icao": "UZSL",
+        "iata": "",
+        "name": "Karshi Khanabad Airport",
+        "city": "Khanabad",
+        "state": "Qashqadaryo",
+        "country": "UZ",
+        "elevation": 1365,
+        "lat": 38.8335990906,
+        "lon": 65.9215011597,
+        "tz": "Asia/Samarkand"
+    },
+    "UZSM": {
+        "icao": "UZSM",
+        "iata": "",
+        "name": "Tandy Bulak Airport",
+        "city": "Tandy Bulak",
+        "state": "Navoiy",
+        "country": "UZ",
+        "elevation": 716,
+        "lat": 41.7607917786,
+        "lon": 64.6024017334,
+        "tz": "Asia/Samarkand"
+    },
+    "UZSN": {
+        "icao": "UZSN",
+        "iata": "AFS",
+        "name": "Sugraly Airport",
+        "city": "Zarafshan",
+        "state": "Navoiy",
+        "country": "UZ",
+        "elevation": 1396,
+        "lat": 41.613899231,
+        "lon": 64.2332000732,
+        "tz": "Asia/Samarkand"
+    },
+    "UZSR": {
+        "icao": "UZSR",
+        "iata": "",
+        "name": "Sariasiya Airport",
+        "city": "Sariasiya",
+        "state": "Surxondaryo",
+        "country": "UZ",
+        "elevation": 1949,
+        "lat": 38.4105987549,
+        "lon": 67.9451980591,
+        "tz": "Asia/Samarkand"
+    },
+    "UZSS": {
+        "icao": "UZSS",
+        "iata": "SKD",
+        "name": "Samarkand Airport",
+        "city": "Samarkand",
+        "state": "",
+        "country": "UZ",
+        "elevation": 2224,
+        "lat": 39.7005004883,
+        "lon": 66.9838027954,
+        "tz": "Asia/Samarkand"
+    },
+    "UZST": {
+        "icao": "UZST",
+        "iata": "TMJ",
+        "name": "Termez Airport",
+        "city": "Termez",
+        "state": "Surxondaryo",
+        "country": "UZ",
+        "elevation": 1027,
+        "lat": 37.2867012024,
+        "lon": 67.3099975586,
+        "tz": "Asia/Samarkand"
+    },
+    "UZSU": {
+        "icao": "UZSU",
+        "iata": "",
+        "name": "Uchkuduk Airport",
+        "city": "Uchkuduk",
+        "state": "Navoiy",
+        "country": "UZ",
+        "elevation": 416,
+        "lat": 42.0830993652,
+        "lon": 63.4492988586,
+        "tz": "Asia/Samarkand"
+    },
+    "UZTC": {
+        "icao": "UZTC",
+        "iata": "",
+        "name": "Chirchik Airport",
+        "city": "Chirchik",
+        "state": "Toshkent",
+        "country": "UZ",
+        "elevation": 2296,
+        "lat": 41.5167999268,
+        "lon": 69.5754013062,
+        "tz": "Asia/Tashkent"
+    },
+    "UZTP": {
+        "icao": "UZTP",
+        "iata": "",
+        "name": "Tashkent East Airport",
+        "city": "Tashkent",
+        "state": "Toshkent",
+        "country": "UZ",
+        "elevation": 1574,
+        "lat": 41.3126983643,
+        "lon": 69.3914031982,
+        "tz": "Asia/Tashkent"
+    },
+    "UZTT": {
+        "icao": "UZTT",
+        "iata": "TAS",
+        "name": "Tashkent International Airport",
+        "city": "Tashkent",
+        "state": "Toshkent-Shahri",
+        "country": "UZ",
+        "elevation": 1417,
+        "lat": 41.257900238,
+        "lon": 69.2811965942,
+        "tz": "Asia/Tashkent"
+    },
+    "UZTZ": {
+        "icao": "UZTZ",
+        "iata": "OMN",
+        "name": "Zomin Airport",
+        "city": "Lyaylyakul",
+        "state": "Jizzax",
+        "country": "UZ",
+        "elevation": 1760,
+        "lat": 40.015128,
+        "lon": 68.409758,
+        "tz": "Asia/Tashkent"
     },
     "VA00": {
         "icao": "VA00",
@@ -312277,7 +312493,7 @@
     },
     "VANR": {
         "icao": "VANR",
-        "iata": "ISK",
+        "iata": "",
         "name": "Gandhinagar Airport",
         "city": "Nashik",
         "state": "Maharashtra",
@@ -312290,7 +312506,7 @@
     "VAOZ": {
         "icao": "VAOZ",
         "iata": "ISK",
-        "name": "Ozar Air Force Station",
+        "name": "Ozar Airport",
         "city": "Nasik",
         "state": "Maharashtra",
         "country": "IN",
@@ -312457,20 +312673,20 @@
     },
     "VCCG": {
         "icao": "VCCG",
-        "iata": "GOY",
-        "name": "Amparai Airport",
-        "city": "Amparai",
-        "state": "Eastern-Province",
+        "iata": "ADP",
+        "name": "Ampara Airport",
+        "city": "Ampara",
+        "state": "Eastern Province",
         "country": "LK",
-        "elevation": 150,
-        "lat": 7.3370800018,
-        "lon": 81.6259002686,
+        "elevation": 151,
+        "lat": 7.336944,
+        "lon": 81.630278,
         "tz": "Asia/Colombo"
     },
     "VCCH": {
         "icao": "VCCH",
-        "iata": "MNH",
-        "name": "Hingurakgoda Air Force Base",
+        "iata": "HIM",
+        "name": "Hingurakgoda Airport",
         "city": "Polonnaruwa Town",
         "state": "North-Central",
         "country": "LK",
@@ -312621,18 +312837,6 @@
         "elevation": 0,
         "lat": 11.6133971186,
         "lon": 102.997083664,
-        "tz": "Asia/Phnom_Penh"
-    },
-    "VDKT": {
-        "icao": "VDKT",
-        "iata": "KTI",
-        "name": "Kratie Airport",
-        "city": "Kratie",
-        "state": "Kratie",
-        "country": "KH",
-        "elevation": 0,
-        "lat": 12.4879999161,
-        "lon": 106.0550003052,
         "tz": "Asia/Phnom_Penh"
     },
     "VDMK": {
@@ -312894,10 +313098,10 @@
         "city": "Agartala",
         "state": "Tripura",
         "country": "IN",
-        "elevation": 46,
+        "elevation": 56,
         "lat": 23.8869991302,
         "lon": 91.2404022217,
-        "tz": "Asia/Dhaka"
+        "tz": "Asia/Kolkata"
     },
     "VEAY": {
         "icao": "VEAY",
@@ -312979,8 +313183,8 @@
         "state": "Uttar-Pradesh",
         "country": "IN",
         "elevation": 270,
-        "lat": 25.451167,
-        "lon": 82.858667,
+        "lat": 25.4524002075,
+        "lon": 82.8592987061,
         "tz": "Asia/Kolkata"
     },
     "VEBS": {
@@ -313062,7 +313266,7 @@
         "city": "Kanpur",
         "state": "Uttar-Pradesh",
         "country": "IN",
-        "elevation": 1050,
+        "elevation": 409,
         "lat": 26.399462,
         "lon": 80.42695,
         "tz": "Asia/Kolkata"
@@ -313117,9 +313321,9 @@
     },
     "VEDZ": {
         "icao": "VEDZ",
-        "iata": "DAE",
+        "iata": "DEP",
         "name": "Daporijo Airport",
-        "city": "",
+        "city": "Daporijo",
         "state": "Arunachal-Pradesh",
         "country": "IN",
         "elevation": 750,
@@ -314495,18 +314699,6 @@
         "lon": 80.8930969238,
         "tz": "Asia/Kolkata"
     },
-    "VIBN": {
-        "icao": "VIBN",
-        "iata": "VNS",
-        "name": "Lal Bahadur Shastri Airport",
-        "city": "Varanasi",
-        "state": "Uttar-Pradesh",
-        "country": "IN",
-        "elevation": 266,
-        "lat": 25.4524002075,
-        "lon": 82.8592987061,
-        "tz": "Asia/Kolkata"
-    },
     "VIBR": {
         "icao": "VIBR",
         "iata": "KUU",
@@ -314749,8 +314941,8 @@
     },
     "VIKA": {
         "icao": "VIKA",
-        "iata": "KNU",
-        "name": "Kanpur Airport",
+        "iata": "",
+        "name": "Kanpur Civil Airport",
         "city": "",
         "state": "Uttar-Pradesh",
         "country": "IN",
@@ -314999,6 +315191,18 @@
         "lon": 106.821699142,
         "tz": "Asia/Vientiane"
     },
+    "VLFL": {
+        "icao": "VLFL",
+        "iata": "PCQ",
+        "name": "Boun Neau Airport",
+        "city": "Boun Neau",
+        "state": "Phongsaly",
+        "country": "LA",
+        "elevation": 3050,
+        "lat": 21.6475,
+        "lon": 101.9,
+        "tz": "Asia/Vientiane"
+    },
     "VLHS": {
         "icao": "VLHS",
         "iata": "OUI",
@@ -315033,6 +315237,18 @@
         "elevation": 1968,
         "lat": 20.966999054,
         "lon": 101.4000015259,
+        "tz": "Asia/Vientiane"
+    },
+    "VLNK": {
+        "icao": "VLNK",
+        "iata": "NEU",
+        "name": "Nong Khang Airport",
+        "city": "Nong Khang",
+        "state": "Houaphan",
+        "country": "LA",
+        "elevation": 3503,
+        "lat": 20.611824,
+        "lon": 104.068158,
         "tz": "Asia/Vientiane"
     },
     "VLOS": {
@@ -315094,18 +315310,6 @@
         "lat": 16.5566005707,
         "lon": 104.7600021362,
         "tz": "Asia/Bangkok"
-    },
-    "VLSN": {
-        "icao": "VLSN",
-        "iata": "NEU",
-        "name": "Sam Neua Airport",
-        "city": "",
-        "state": "Houaphan",
-        "country": "LA",
-        "elevation": 3281,
-        "lat": 20.4183998108,
-        "lon": 104.0670013428,
-        "tz": "Asia/Vientiane"
     },
     "VLSV": {
         "icao": "VLSV",
@@ -315510,7 +315714,7 @@
         "city": "Pokhara",
         "state": "Western-Region",
         "country": "NP",
-        "elevation": 2712,
+        "elevation": 2684,
         "lat": 28.2008991241,
         "lon": 83.9821014404,
         "tz": "Asia/Kathmandu"
@@ -315529,7 +315733,7 @@
     },
     "VNPR": {
         "icao": "VNPR",
-        "iata": "PKR",
+        "iata": "PHH",
         "name": "Pokhara International Airport",
         "city": "Pokhara",
         "state": "Gandaki Province",
@@ -315561,6 +315765,18 @@
         "elevation": 1555,
         "lat": 27.3939990997,
         "lon": 86.0614013672,
+        "tz": "Asia/Kathmandu"
+    },
+    "VNRG": {
+        "icao": "VNRG",
+        "iata": "",
+        "name": "Gulmi Resunga Airport",
+        "city": "Resunga",
+        "state": "Western-Region",
+        "country": "NP",
+        "elevation": 5015,
+        "lat": 28.02493,
+        "lon": 83.253519,
         "tz": "Asia/Kathmandu"
     },
     "VNRK": {
@@ -315954,7 +316170,7 @@
         "city": "Kalaburagi",
         "state": "Karnataka",
         "country": "IN",
-        "elevation": 1571,
+        "elevation": 1567,
         "lat": 17.307778,
         "lon": 76.958056,
         "tz": "Asia/Kolkata"
@@ -316309,7 +316525,7 @@
     },
     "VOYK": {
         "icao": "VOYK",
-        "iata": "YLK",
+        "iata": "",
         "name": "Yelahanka Air Force Station",
         "city": "Yelahanka",
         "state": "Karnataka",
@@ -316329,6 +316545,30 @@
         "elevation": 9000,
         "lat": 27.2563991547,
         "lon": 91.514503479,
+        "tz": "Asia/Thimphu"
+    },
+    "VQBT": {
+        "icao": "VQBT",
+        "iata": "BUT",
+        "name": "Bathpalathang Airport",
+        "city": "Jakar",
+        "state": "Bumthang",
+        "country": "BT",
+        "elevation": 8466,
+        "lat": 27.5622,
+        "lon": 90.7471,
+        "tz": "Asia/Thimphu"
+    },
+    "VQGP": {
+        "icao": "VQGP",
+        "iata": "GLU",
+        "name": "Gelephu Airport",
+        "city": "Gelephu",
+        "state": "Sarpang",
+        "country": "BT",
+        "elevation": 987,
+        "lat": 26.884639,
+        "lon": 90.464165,
         "tz": "Asia/Thimphu"
     },
     "VQPR": {
@@ -316475,6 +316715,18 @@
         "lon": 73.5290985107,
         "tz": "Indian/Maldives"
     },
+    "VRMO": {
+        "icao": "VRMO",
+        "iata": "GKK",
+        "name": "Kooddoo Airport",
+        "city": "Kooddoo",
+        "state": "Gaafu Alifu Atoll",
+        "country": "MV",
+        "elevation": 4,
+        "lat": 0.733078,
+        "lon": 73.434202,
+        "tz": "Indian/Maldives"
+    },
     "VRMT": {
         "icao": "VRMT",
         "iata": "KDM",
@@ -316487,6 +316739,18 @@
         "lon": 72.9969024658,
         "tz": "Indian/Maldives"
     },
+    "VRMU": {
+        "icao": "VRMU",
+        "iata": "DDD",
+        "name": "Dhaalu Airport",
+        "city": "Kudahuvadhoo",
+        "state": "Dhaalu Atoll",
+        "country": "MV",
+        "elevation": 6,
+        "lat": 2.667222,
+        "lon": 72.892778,
+        "tz": "Indian/Maldives"
+    },
     "VRMV": {
         "icao": "VRMV",
         "iata": "VAM",
@@ -316497,6 +316761,18 @@
         "elevation": 6,
         "lat": 3.4705555556,
         "lon": 72.8358333333,
+        "tz": "Indian/Maldives"
+    },
+    "VRNT": {
+        "icao": "VRNT",
+        "iata": "TMF",
+        "name": "Thimarafushi Airport",
+        "city": "Thimarafushi",
+        "state": "Thaa",
+        "country": "MV",
+        "elevation": 6,
+        "lat": 2.211487,
+        "lon": 73.153751,
         "tz": "Indian/Maldives"
     },
     "VRQM": {
@@ -317041,7 +317317,7 @@
     },
     "VTBH": {
         "icao": "VTBH",
-        "iata": "KKM",
+        "iata": "",
         "name": "Sa Pran Nak Airport",
         "city": "",
         "state": "Lop-Buri",
@@ -317082,7 +317358,7 @@
         "city": "",
         "state": "Lop-Buri",
         "country": "TH",
-        "elevation": 123,
+        "elevation": 133,
         "lat": 14.8746004105,
         "lon": 100.663002014,
         "tz": "Asia/Bangkok"
@@ -318043,8 +318319,8 @@
         "state": "Binh-Thu\u1eadn",
         "country": "VN",
         "elevation": 23,
-        "lat": 10.2270002365,
-        "lon": 103.967002869,
+        "lat": 10.167759,
+        "lon": 103.995451,
         "tz": "Asia/Ho_Chi_Minh"
     },
     "VVPR": {
@@ -318061,7 +318337,7 @@
     },
     "VVPT": {
         "icao": "VVPT",
-        "iata": "PHH",
+        "iata": "",
         "name": "Phan Thiet Airport",
         "city": "Phan Thiet",
         "state": "Binh-Thu\u1eadn",
@@ -320126,7 +320402,7 @@
     "WAJJ": {
         "icao": "WAJJ",
         "iata": "DJJ",
-        "name": "Sentani Airport",
+        "name": "Sentani International Airport",
         "city": "Jayapura-Papua Island",
         "state": "Papua",
         "country": "ID",
@@ -320711,18 +320987,6 @@
         "lon": 112.5329971313,
         "tz": "Asia/Pontianak"
     },
-    "WAOM": {
-        "icao": "WAOM",
-        "iata": "MTW",
-        "name": "Beringin Airport",
-        "city": "Murateweh-Borneo Island",
-        "state": "Central-Kalimantan",
-        "country": "ID",
-        "elevation": 126,
-        "lat": -0.9403250217,
-        "lon": 114.8938751221,
-        "tz": "Asia/Pontianak"
-    },
     "WAON": {
         "icao": "WAON",
         "iata": "TJG",
@@ -321258,7 +321522,7 @@
         "city": "Bajawa",
         "state": "East-Nusa-Tenggara",
         "country": "ID",
-        "elevation": 4326,
+        "elevation": 1454,
         "lat": -8.7074349801,
         "lon": 121.057426929,
         "tz": "Asia/Makassar"
@@ -323128,7 +323392,7 @@
         "iata": "PDG",
         "name": "Minangkabau Airport",
         "city": "Ketaping/Padang-Sumatra Island",
-        "state": "Ketaping",
+        "state": "West-Sumatra",
         "country": "ID",
         "elevation": 18,
         "lat": -0.7869169712,
@@ -323219,6 +323483,18 @@
         "lon": 106.5327758789,
         "tz": "Asia/Jakarta"
     },
+    "WIJI": {
+        "icao": "WIJI",
+        "iata": "KRC",
+        "name": "Depati Parbo Airport",
+        "city": "Sungai Penuh",
+        "state": "Jambi",
+        "country": "ID",
+        "elevation": 2607,
+        "lat": -2.091111,
+        "lon": 101.462778,
+        "tz": "Asia/Jakarta"
+    },
     "WIKL": {
         "icao": "WIKL",
         "iata": "",
@@ -323259,18 +323535,18 @@
         "icao": "WIME",
         "iata": "AEG",
         "name": "Aek Godang Airport",
-        "city": "Padang Sidempuan-Sumatra Island",
-        "state": "",
+        "city": "Padang Sidempuan",
+        "state": "North Sumatra",
         "country": "ID",
         "elevation": 922,
-        "lat": 1.4000999928,
-        "lon": 99.4304962158,
+        "lat": 1.400103,
+        "lon": 99.430453,
         "tz": "Asia/Jakarta"
     },
     "WIMG": {
         "icao": "WIMG",
         "iata": "",
-        "name": "Tabing Airport",
+        "name": "Sutan Sjahrir Air Force Base",
         "city": "Padang-Sumatra Island",
         "state": "",
         "country": "ID",
@@ -323323,8 +323599,8 @@
         "state": "",
         "country": "ID",
         "elevation": 114,
-        "lat": 3.5580599308,
-        "lon": 98.6716995239,
+        "lat": 3.637847,
+        "lon": 98.870566,
         "tz": "Asia/Jakarta"
     },
     "WIMN": {
@@ -323625,18 +323901,6 @@
         "elevation": 62,
         "lat": -0.3528079987,
         "lon": 102.3349990845,
-        "tz": "Asia/Jakarta"
-    },
-    "WIPT": {
-        "icao": "WIPT",
-        "iata": "PDG",
-        "name": "Minangkabau Airport",
-        "city": "Ketaping/Padang-Sumatra Island",
-        "state": "West-Sumatra",
-        "country": "ID",
-        "elevation": 18,
-        "lat": -0.7869169712,
-        "lon": 100.28099823,
         "tz": "Asia/Jakarta"
     },
     "WIPU": {
@@ -325125,18 +325389,6 @@
         "elevation": 1027,
         "lat": -9.0730495453,
         "lon": 124.9049987793,
-        "tz": "Asia/Makassar"
-    },
-    "WRKB": {
-        "icao": "WRKB",
-        "iata": "BJW",
-        "name": "Padhameleda Airport",
-        "city": "Bajawa-Flores Island",
-        "state": "East-Nusa-Tenggara",
-        "country": "ID",
-        "elevation": 4317,
-        "lat": -8.808139801,
-        "lon": 120.9960021973,
         "tz": "Asia/Makassar"
     },
     "WRKJ": {
@@ -329677,12 +329929,12 @@
     },
     "YBAF": {
         "icao": "YBAF",
-        "iata": "ACF",
+        "iata": "",
         "name": "Brisbane Archerfield Airport",
         "city": "Brisbane",
         "state": "Queensland",
         "country": "AU",
-        "elevation": 63,
+        "elevation": 65,
         "lat": -27.5702991486,
         "lon": 153.007995605,
         "tz": "Australia/Brisbane"
@@ -332197,14 +332449,14 @@
     },
     "YCFH": {
         "icao": "YCFH",
-        "iata": "",
-        "name": "Clifton Hills Airport",
-        "city": "Clifton Hills",
+        "iata": "CFH",
+        "name": "Clifton Hills Landing Strip",
+        "city": "Clifton Hills Station",
         "state": "South Australia",
         "country": "AU",
-        "elevation": 0,
-        "lat": -27.0182991028,
-        "lon": 138.891998291,
+        "elevation": 105,
+        "lat": -27.015879,
+        "lon": 138.89275,
         "tz": "Australia/Adelaide"
     },
     "YCFL": {
@@ -335317,12 +335569,12 @@
     },
     "YGDW": {
         "icao": "YGDW",
-        "iata": "GTS",
+        "iata": "",
         "name": "Granite Downs Airport",
         "city": "",
         "state": "South Australia",
         "country": "AU",
-        "elevation": 337,
+        "elevation": 1122,
         "lat": -26.948299408,
         "lon": 133.6069946289,
         "tz": "Australia/Adelaide"
@@ -338295,7 +338547,7 @@
         "icao": "YLEV",
         "iata": "LEL",
         "name": "Lake Evella Airport",
-        "city": "",
+        "city": "Lake Evella",
         "state": "Northern-Territory",
         "country": "AU",
         "elevation": 256,
@@ -339649,9 +339901,9 @@
     },
     "YMES": {
         "icao": "YMES",
-        "iata": "SXE",
+        "iata": "",
         "name": "RAAF Base East Sale",
-        "city": "",
+        "city": "East Sale",
         "state": "Victoria",
         "country": "AU",
         "elevation": 23,
@@ -342575,6 +342827,18 @@
         "lon": 120.4329986572,
         "tz": "Australia/Perth"
     },
+    "YPDA": {
+        "icao": "YPDA",
+        "iata": "PDN",
+        "name": "Parndana Airport",
+        "city": "Parndana",
+        "state": "South Australia",
+        "country": "AU",
+        "elevation": 545,
+        "lat": -35.807,
+        "lon": 137.264,
+        "tz": "Australia/Adelaide"
+    },
     "YPDI": {
         "icao": "YPDI",
         "iata": "PDE",
@@ -342818,13 +343082,13 @@
     "YPKG": {
         "icao": "YPKG",
         "iata": "KGI",
-        "name": "Kalgoorlie Boulder Airport",
+        "name": "Kalgoorlie-Boulder Airport",
         "city": "Kalgoorlie",
         "state": "Western Australia",
         "country": "AU",
         "elevation": 1203,
-        "lat": -30.7894001007,
-        "lon": 121.461997986,
+        "lat": -30.789444,
+        "lon": 121.461667,
         "tz": "Australia/Perth"
     },
     "YPKH": {
@@ -345315,10 +345579,10 @@
         "icao": "YTGT",
         "iata": "GTS",
         "name": "The Granites Airport",
-        "city": "",
+        "city": "The Granites",
         "state": "Northern-Territory",
         "country": "AU",
-        "elevation": 0,
+        "elevation": 1299,
         "lat": -20.5482997894,
         "lon": 130.3470001221,
         "tz": "Australia/Darwin"
@@ -347487,7 +347751,7 @@
         "icao": "YWSL",
         "iata": "SXE",
         "name": "West Sale Airport",
-        "city": "",
+        "city": "West Sale",
         "state": "Victoria",
         "country": "AU",
         "elevation": 93,
@@ -348215,6 +348479,18 @@
         "lon": 116.2570037842,
         "tz": "Asia/Shanghai"
     },
+    "ZBCD": {
+        "icao": "ZBCD",
+        "iata": "CDE",
+        "name": "Chengde Puning Airport",
+        "city": "Chengde",
+        "state": "Hebei",
+        "country": "CN",
+        "elevation": 2303,
+        "lat": 41.122919,
+        "lon": 118.071339,
+        "tz": "Asia/Shanghai"
+    },
     "ZBCF": {
         "icao": "ZBCF",
         "iata": "CIF",
@@ -348393,6 +348669,18 @@
         "elevation": 3321,
         "lat": 40.5600013733,
         "lon": 109.9970016479,
+        "tz": "Asia/Shanghai"
+    },
+    "ZBSG": {
+        "icao": "ZBSG",
+        "iata": "SZH",
+        "name": "Shuozhou Zirun Airport",
+        "city": "Shuozhou",
+        "state": "Shanxi",
+        "country": "CN",
+        "elevation": 3422,
+        "lat": 39.273056,
+        "lon": 112.691111,
         "tz": "Asia/Shanghai"
     },
     "ZBSH": {
@@ -348635,6 +348923,18 @@
         "lon": 113.2200012207,
         "tz": "Asia/Shanghai"
     },
+    "ZGHC": {
+        "icao": "ZGHC",
+        "iata": "HNI",
+        "name": "Hechi Jinchengjiang Airport",
+        "city": "Hechi",
+        "state": "Guangxi",
+        "country": "CN",
+        "elevation": 2221,
+        "lat": 24.802425,
+        "lon": 107.713141,
+        "tz": "Asia/Shanghai"
+    },
     "ZGHY": {
         "icao": "ZGHY",
         "iata": "HNY",
@@ -348741,6 +349041,18 @@
         "elevation": 0,
         "lat": 22.0063991547,
         "lon": 113.3759994507,
+        "tz": "Asia/Shanghai"
+    },
+    "ZGSG": {
+        "icao": "ZGSG",
+        "iata": "HSC",
+        "name": "Shaoguan Guitou Airport",
+        "city": "Shaoguan",
+        "state": "Guangdong",
+        "country": "CN",
+        "elevation": 280,
+        "lat": 24.97313,
+        "lon": 113.423695,
         "tz": "Asia/Shanghai"
     },
     "ZGSZ": {
@@ -349034,7 +349346,7 @@
     "ZKPY": {
         "icao": "ZKPY",
         "iata": "FNJ",
-        "name": "Sunan International Airport",
+        "name": "Pyongyang International Airport",
         "city": "Pyongyang",
         "state": "South-Pyongan",
         "country": "KP",
@@ -349089,6 +349401,18 @@
         "elevation": 0,
         "lat": 40.1610984802,
         "lon": 94.8091964722,
+        "tz": "Asia/Shanghai"
+    },
+    "ZLDL": {
+        "icao": "ZLDL",
+        "iata": "HXD",
+        "name": "Delingha Airport",
+        "city": "Delingha",
+        "state": "Qinghai",
+        "country": "CN",
+        "elevation": 9633,
+        "lat": 37.125,
+        "lon": 97.268611,
         "tz": "Asia/Shanghai"
     },
     "ZLGM": {
@@ -349161,18 +349485,6 @@
         "elevation": 4740,
         "lat": 38.5422222222,
         "lon": 102.348333333,
-        "tz": "Asia/Shanghai"
-    },
-    "ZLJN": {
-        "icao": "ZLJN",
-        "iata": "JNG",
-        "name": "Jining Qufu Airport",
-        "city": "Jining",
-        "state": "Shandong",
-        "country": "CN",
-        "elevation": 134,
-        "lat": 35.2927777778,
-        "lon": 116.346666667,
         "tz": "Asia/Shanghai"
     },
     "ZLJQ": {
@@ -349509,6 +349821,18 @@
         "elevation": 3022,
         "lat": 44.9831008911,
         "lon": 110.1669998169,
+        "tz": "Asia/Ulaanbaatar"
+    },
+    "ZMTL": {
+        "icao": "ZMTL",
+        "iata": "TNZ",
+        "name": "Tosontsengel Airport",
+        "city": "Tosontsengel",
+        "state": "Zavkhan",
+        "country": "MN",
+        "elevation": 5604,
+        "lat": 48.738981,
+        "lon": 98.293596,
         "tz": "Asia/Ulaanbaatar"
     },
     "ZMUB": {
@@ -350303,6 +350627,18 @@
         "lon": 106.641998291,
         "tz": "Asia/Shanghai"
     },
+    "ZUDA": {
+        "icao": "ZUDA",
+        "iata": "DZH",
+        "name": "Dazhou Jinya Airport",
+        "city": "Dazhou",
+        "state": "Sichuan",
+        "country": "CN",
+        "elevation": 1342,
+        "lat": 31.047313,
+        "lon": 107.435342,
+        "tz": "Asia/Shanghai"
+    },
     "ZUDC": {
         "icao": "ZUDC",
         "iata": "DCY",
@@ -350334,7 +350670,7 @@
         "city": "Dazhou",
         "state": "Sichuan",
         "country": "CN",
-        "elevation": 0,
+        "elevation": 935,
         "lat": 31.1302,
         "lon": 107.4295,
         "tz": "Asia/Shanghai"
@@ -350373,6 +350709,18 @@
         "elevation": 13346,
         "lat": 31.7575,
         "lon": 99.554167,
+        "tz": "Asia/Shanghai"
+    },
+    "ZUHY": {
+        "icao": "ZUHY",
+        "iata": "AHJ",
+        "name": "Ngawa Hongyuan Airport",
+        "city": "Hongyuan",
+        "state": "Sichuan",
+        "country": "CN",
+        "elevation": 11598,
+        "lat": 32.529167,
+        "lon": 102.356944,
         "tz": "Asia/Shanghai"
     },
     "ZUJZ": {
@@ -350519,6 +350867,18 @@
         "lon": 94.3352966309,
         "tz": "Asia/Shanghai"
     },
+    "ZUPL": {
+        "icao": "ZUPL",
+        "iata": "APJ",
+        "name": "Ali Pulan Airport",
+        "city": "Burang",
+        "state": "Tibet",
+        "country": "CN",
+        "elevation": 13944,
+        "lat": 30.390976,
+        "lon": 81.138039,
+        "tz": "Asia/Shanghai"
+    },
     "ZUPS": {
         "icao": "ZUPS",
         "iata": "LPF",
@@ -350661,6 +351021,18 @@
         "elevation": 4150,
         "lat": 25.0863888889,
         "lon": 104.959444444,
+        "tz": "Asia/Shanghai"
+    },
+    "ZUZH": {
+        "icao": "ZUZH",
+        "iata": "PZI",
+        "name": "Panzhihua Baoanying Airport",
+        "city": "Panzhihua",
+        "state": "Sichuan",
+        "country": "CN",
+        "elevation": 6483,
+        "lat": 26.539128,
+        "lon": 101.798105,
         "tz": "Asia/Shanghai"
     },
     "ZUZY": {
@@ -350855,6 +351227,18 @@
         "lon": 79.8648986816,
         "tz": "Asia/Shanghai"
     },
+    "ZWTP": {
+        "icao": "ZWTP",
+        "iata": "TLQ",
+        "name": "Turpan Jiaohe Airport",
+        "city": "Turpan",
+        "state": "Xinjiang",
+        "country": "CN",
+        "elevation": 925,
+        "lat": 43.030556,
+        "lon": 89.100556,
+        "tz": "Asia/Shanghai"
+    },
     "ZWTS": {
         "icao": "ZWTS",
         "iata": "TWC",
@@ -350901,6 +351285,18 @@
         "elevation": 4731,
         "lat": 36.810833,
         "lon": 81.780833,
+        "tz": "Asia/Shanghai"
+    },
+    "ZWZS": {
+        "icao": "ZWZS",
+        "iata": "ZFL",
+        "name": "Zhaosu Tianma Airport",
+        "city": "Zhaosu",
+        "state": "Xinjiang",
+        "country": "CN",
+        "elevation": 5817,
+        "lat": 43.089812,
+        "lon": 81.229123,
         "tz": "Asia/Shanghai"
     },
     "ZYAS": {
@@ -351033,6 +351429,18 @@
         "elevation": 262,
         "lat": 46.8433990479,
         "lon": 130.464996338,
+        "tz": "Asia/Shanghai"
+    },
+    "ZYJX": {
+        "icao": "ZYJX",
+        "iata": "JXA",
+        "name": "Jixi Xingkaihu Airport",
+        "city": "Jixi",
+        "state": "Heilongjiang",
+        "country": "CN",
+        "elevation": 738,
+        "lat": 45.299722,
+        "lon": 131.179444,
         "tz": "Asia/Shanghai"
     },
     "ZYJZ": {
@@ -351189,6 +351597,18 @@
         "elevation": 624,
         "lat": 42.8828010559,
         "lon": 129.451004028,
+        "tz": "Asia/Shanghai"
+    },
+    "ZYYK": {
+        "icao": "ZYYK",
+        "iata": "YKH",
+        "name": "Yingkou Lanqi Airport",
+        "city": "Yingkou",
+        "state": "Liaoning",
+        "country": "CN",
+        "elevation": 0,
+        "lat": 40.542524,
+        "lon": 122.3586,
         "tz": "Asia/Shanghai"
     },
     "ZYYY": {
